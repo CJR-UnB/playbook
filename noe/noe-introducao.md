@@ -32,7 +32,7 @@ A noe é a junção desses dois núcleos, e portanto, herdando suas respectivas 
 Como você já deve ter notato o trabalho e as responsabilidades da NOE são bem extensas e cheios de detalhes, e se eles não forem corretamente bem organizados é possivel se perder no meio de tanto processo.
 Tendo isso em mente o Playbook da NOE tem a função de deixar esse trabalho e esses processos organizados da forma mais simples possivel, agilizando e facilitando o trabalho.
 
-Adotarei os temas nesse playbook na seguinte ordem:
+Abordarei os temas nesse playbook na seguinte ordem:
 - Ferramentas e informações(trello, drive, dados da CJR...)
 - Processos adm-fim
 - Gestão interna da CJR
