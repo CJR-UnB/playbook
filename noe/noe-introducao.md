@@ -3,7 +3,7 @@
 ## Como a NOE foi formada
 Atualmente a CJR posssui um organograma diferente dos organogramas que se vê comumente nas outras EJ, e bem diferente tambêm de como era de 2015 para trás.
 
-No organograma antigo existia um núcleo chamado DAF e existia tambêm uma segunda presidência, chamada Presidente Organizacional. Na troca de organograma, muitas mudanças foram feitas, entre elas, houve uma junção da DAF com a Prezidencia Organizacional, e assim nasceu a NOE, **Núcleo de Organização Empresarial**.
+No organograma antigo existia um núcleo chamado DAF e existia tambêm uma segunda presidência, chamada Presidente Organizacional. Na troca de organograma, muitas mudanças foram feitas, entre elas, houve uma junção da DAF com a Presidencia Organizacional, e assim nasceu a NOE, **Núcleo de Organização Empresarial**.
 
 
 > ### O que era a DAF?
