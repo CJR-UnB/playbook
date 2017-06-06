@@ -1,40 +1,40 @@
 # Introdução da NOE
 
-## Como a NOE foi formada
-Atualmente a CJR posssui um organograma diferente dos organogramas que se vê comumente nas outras EJ, e bem diferente tambêm de como era de 2015 para trás.
+## Como a NOE foi formada?
+Atualmente a CJR posssui um organograma diferente dos que se vê comumente nas outras EJ's e diferente também de como era antes de 2015.
 
-No organograma antigo existia um núcleo chamado DAF e existia tambêm uma segunda presidência, chamada Presidente Organizacional. Na troca de organograma, muitas mudanças foram feitas, entre elas, houve uma junção da DAF com a Presidencia Organizacional, e assim nasceu a NOE, **Núcleo de Organização Empresarial**.
+No organograma antigo existia um núcleo chamado DAF e um segundo presidente chamado de Presidente Organizacional, quando houve a mudança no organograma estes foram extintos, ocorrendo assim a fusão da DAF com a Presidência Organizacional dando origem ao **Núcleo de Organização Empresarial** - NOE.
 
 
 > ### O que era a DAF?
-> Resumidamente a DAF era o núcleo da CJR encarregado das atividades adm-fim(administrativo-financeiro). Ou seja, ela cuidave de coisas como:
-> - Gestão do patrimônio, cuidar da sede de forma geral, deixar ela limpa, organizada, comprar/arrumar equipamentos, com o objetivo da sede ser cada vez mais um ambiente bom e tranquilo para as pessoas ttrabalharem.
-> - Controle financeiro, acompanhamento da conta bâncaria, ver disponibilidade finânceira, orçamentos semestrais e mensais, pagar serviços e reembolsos, lidar com o contador, emitir notas fiscais.
-> - Legalidade juridica da CJR, Mexer com documentos, resolver coisas no cartório, selo EJ(uma série de documentos que a CJR precisa ter para estar na legalidade e permanecer como uma EJ federada).
+> Resumidamente a DAF era o núcleo da CJR encarregado das atividades adm-fin(administrativo-financeiro), ou seja, era responsável por:
+> - Gestão do patrimônio da empresa, manutenção da sede, compra de equipamentos e qualquer outra atividade que tenha como objetivo manter a sede agradável para seus membros.
+> - Controle financeiro, acompanhamento da conta bancária, checar disponibilidade financeira, orçamentos semestrais e mensais, pagar serviços e reembolsos, lidar com o contador e emitir notas fiscais.
+> - Garantir a legalidade jurídica da CJR, lidar com documentação empresarial, cuidar do Selo EJ(uma série de documentos que a CJR precisa ter para estar na legalidade e permanecer como uma EJ federada).
 
 ---
 
 > ### O que era o Presidente Organizacional?
 > Em poucas palavras o Presidente Organizacional era quem cuidava da gestão interna da CJR, ou seja:
-> - Definia como seria a organização interna da CJR, como seria organizado as reuniões por exemplo.
-> - Acompanhamento dos núcleos, ver se o núcleo esta andando direitinho, comprindo suas tarefas, vendo se algum possui algum problema ou empedimento.
-> - Construção de planos de ação para desviar de algum problema que a CJR estaja passando.
-> - Acompanhamento e grande envolvimento na contrução do Planejamento Estratégico(PE), ou seja, visualizar de forma ampla se a CJR está caminhando na direção correta, visualização da CJR de forma olistica, "cada núcleo como uma perna para a CJR andar".
-> - Gestão do conhecimento, garantir que a menor quantidade de conhecimento sobre os processos e a história da CJR se perca com o passar do tempo.
+> - Definia como funcionaria a organização interna da CJR, como seriam organizadas as reuniões internas por exemplo.
+> - Acompanhar os núcleos e garantir quem não possuam problemas ou empedimentos.
+> - Construção de planos de ação para desviar de problemas que a CJR possa vir a sofrer.
+> - Acompanhamento e grande participação na contrução do Planejamento Estratégico(PE), ou seja, visualizar de forma ampla se a CJR está caminhando na direção correta para alcançar as metas fixadas e exergando-a de forma olística.
+> - Cuidar da gestão do conhecimento e garantir que o mínimo de conhecimento sobre os processos e a história da CJR se perca com o passar do tempo.
 
 
 
 ## No final das contas, o que é a NOE?
-A noe é a junção desses dois núcleos, e portanto, herdando suas respectivas funçõoes. Dessa forma, a NOE se tornou o núcleo responsável por completo da parte interna da CJR, indo desde controle adm-fim até gestão e acompanhamentos dos nucleos e do PE.
+A NOE herdou as responsabilidades da DAF e da Presidência Organizacional. Portanto, tornou-se o núcleo responsável completamente pela gestão interna da CJR, indo desde controle adm-fin até gestão organizacional, acompanhamentos dos nucleos e da concepção do PE.
 
 
 ## Playbook NOE
-Como você já deve ter notato o trabalho e as responsabilidades da NOE são bem extensas e cheios de detalhes, e se eles não forem corretamente bem organizados é possivel se perder no meio de tanto processo.
-Tendo isso em mente o Playbook da NOE tem a função de deixar esse trabalho e esses processos organizados da forma mais simples possivel, agilizando e facilitando o trabalho.
+Como você deve ter notado o trabalho e as responsabilidades da NOE são bem extensos e detalhados e se não forem bem organizados é possivel se perder no meio de tantos processos.
+Tendo isso em mente o Playbook da NOE tem a função de deixar estes processos organizados da forma mais simples possível, agilizando e facilitando o trabalho.
 
-Abordarei os temas nesse playbook na seguinte ordem:
-- Ferramentas e informações(trello, drive, dados da CJR...)
-- Processos adm-fim
+Abordarei os temas na seguinte ordem:
+- Ferramentas e informações(Trello, Drive, dados da CJR...)
+- Processos adm-fin
 - Gestão interna da CJR
 
 Bom Proveito :)
