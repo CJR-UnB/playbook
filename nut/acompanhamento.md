@@ -1,10 +1,10 @@
 # Acompanhamento
 
-## Introdução:
+### Resumo:
 
 O acompanhamento é um dos processos principais do Núcleo de Talentos. O processo consiste em um acompanhador (geralmento do NUT), avaliar o estado físico, emocional e psicológico do membro/trainee em questão, fornecer apoio e junto aos outros membros do NUT, traçar planos de ação para o acompanhado conseguir planejar seu semestre, organizar seus horários e definir suas prioridades.
 
-### Histórico e estrutura atual:
+#### Histórico e estrutura atual:
 
 *2015:*
 Ao longo do tempo, o acompanhamento sofreu alterações de acordo com feedbacks e com as diferentes necessidade dos membros e trainees. No ano de 2015, os acompanhamentos eram armazenados no Google Drive (na pasta do NUT) sendo que cada membro/trainee possuía uma planilha individual do Google Planilhas, onde constavam as seguintes informações:
