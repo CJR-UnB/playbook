@@ -12,3 +12,4 @@
 
 * NUT
 	* [Acompanhamento] (nut/acompanhamento.md)
+	* [Avaliação de Desempenho] (nut/avaliacao-de-desempenho.md)
