@@ -10,11 +10,15 @@ Ao fim do processo, os dados devem ser analisados utilizando a fórmula contida 
 
 *Obs:* os líderes devem se avaliar. Isto é, além de avaliarem os membros do seu núcleo, devem avaliar os líderes dos outros núcleos.
 
--\* Diretório no Google Drive: CJR > NUT > Gestões Antigas > Gestão 2014-2015 > Avaliação de Desempenho
+\* **Diretório no Google Drive:** CJR > NUT > Gestões Antigas > Gestão 2014-2015 > Avaliação de Desempenho
+
+---
 
 ### Objetivo:
 
 O objetivo da AD é servir de métrica para identificar o nível de profissionalismo e comprometimento dos membros e gerar feedbacks bem embasados que corroborem para o desenvolvimento pessoal e profissional dos membros da CJR. Além disso, o histórico das ADs pode, no futuro, servir como base de comparação para análises. similares.
+
+---
 
 ### Histórico:
 
