@@ -1,8 +1,12 @@
 # Processo de Negociação
 
-## Primeira Reunião
+
+--------------------------------------------------------
+
+## Primeira Reunião: Conhecendo o Cliente
 
 #### Em geral...
+
 as negociações chegam pelo formulário de Informações do Cliente, pelo e-mail de contato da CJR ou pela página do Facebook. Uma pessoa do Núcleo de Atendimento e Marketing é designada para repassar cada negociação para algum negociador. Nesse caso, é preciso responder ao cliente, encaminhando o form de pré-negociação (o facebook já faz essa parte automaticamente), e marcar uma data para a próxima reunião (https://goo.gl/H2yIbM).
 
 -> É de extrema importância que todo cliente responda ao formulário de pré-negociação. As informações salvas lá são usadas em análises das negociações.
@@ -18,17 +22,20 @@ cada negociação possui um time com dois negociadores:
 
 *No caso da reunião de apresentação, contudo, o negociador secundário é menos importante, devido à simplicidade do encontro. Essa reunião tem caráter situacional, uma vez que ocorrerá somente quando necessária, caso o cliente chegue direto na sede procurando conversar sobre seu projeto.*
 
->####Entre Reuniões:
->* É de extrema importância o preparo prévio do negociador para cada encontro com um cliente. Logo, cada reunião neste guia possui uma sessão “Entre Reuniões”, contendo o básico para se preparar para a próxima etapa do processo.
->* Ver no formulário de pré-negociação como o cliente conheceu a CJR. Se for indicação, pergunte quem indicou!
->* Procurar entender a ideia do cliente.
->* Pesquisar sobre o negócio do cliente.
->* Tentar pensar em quais aspectos do projeto são mais complexos e precisam receber maior foco no próximo encontro.
->* Buscar propostas e levantamentos de projetos similares que possam ser usados como base. Entre em contato com o Líder da NAM, Líder da NDP e Presidente para ver se tem informações que possam te ajudar.
+####Entre Reuniões:
+* É de extrema importância o preparo prévio do negociador para cada encontro com um cliente. Logo, cada reunião neste guia possui >uma sessão “Entre Reuniões”, contendo o básico para se preparar para a próxima etapa do processo.
+* Ver no formulário de pré-negociação como o cliente conheceu a CJR. Se for indicação, pergunte quem indicou!
+* Procurar entender a ideia do cliente.
+* Pesquisar sobre o negócio do cliente.
+* Tentar pensar em quais aspectos do projeto são mais complexos precisam receber maior foco no próximo encontro.
+* Buscar propostas e levantamentos de projetos similares que possam ser usados como base. Entre em contato com o Líder da NAM, Líder da NDP e Presidente para ver se tem informações que possam te ajudar.
 
+<div class="master-tip">
+	<b class="master-title">DICA DE MESTRE</b> 
+	<p>Após se reunir com o cliente e receber a ideia inicial do projeto, converse na sede com membros e ex-membros sobre o projeto e formas de executá-lo. Falar sobre a negociação na REGER também é uma ótima ideia!</p>
+</div>
 
-**DICA DE MESTRE**  Após se reunir com o cliente e receber a ideia inicial do projeto, converse na sede com membros e ex-membros sobre o projeto e formas de executá-lo. Falar sobre a negociação na REGER também é uma ótima ideia!
-
+--------------------------------------------------------
 
 ## Segunda Reunião: **Levantamento**
 
@@ -41,28 +48,34 @@ A metodologia de desenvolvimento ágil usada na CJR é muito conhecida no mundo.
 
 #### Sobre o Design
 
-Como você deve saber, a CJR não faz layout de aplicação. Dessa forma, se o cliente quer ter um layout específico[1] e não tem designer para fazer as telas, ele tem duas opções: comprar/usar um template da internet ou contratar uma empresa que faça layout.
-	Template
-	  Alguns sites bons que possuem layouts:
-      * Template Villareal
-      * Templated
-      * Templates para Jekyll
-      * Themeforest
-	Contratar uma empresa
-	  Como fazemos parte da Concentro e temos uma EJ de Design que é sensacional e nossa amiga, recomende o trabalho da Lamparina ao cliente! Você, como negociador, deve, pelo menos, conhecer e ter o contato do(a) Diretor(a) de Atendimento da Lamparina para conversar com ele(a) sobre oportunidades de projetos.
+Como você deve saber, a CJR não faz layout de aplicação. Dessa forma, se o cliente quer ter um layout específico e não tem designer para fazer as telas, ele tem duas opções: comprar/usar um template da internet ou contratar uma empresa que faça layout. Sistemas de gestão interna de empresas normalmente não precisam ser bonitos, então pode ter só um [Bootstrap](http://getbootstrap.com/) nele.
+###### Template
+  Alguns sites bons que possuem layouts:
+  * Template Villareal
+  * Templated
+  * Templates para Jekyll
+  * Themeforest
 
-**DICA DE MESTRE**  Conheça a galera da Lamparina e faça uma negociação com eles! Eles são muito divertidos e amigáveis e você com certeza vai aprender algo legal!
+###### Contratar uma empresa
+  Como fazemos parte da Concentro e temos uma EJ de Design que é sensacional e nossa amiga, recomende o trabalho da Lamparina ao cliente! Você, como negociador, deve, pelo menos, conhecer e ter o contato do(a) Diretor(a) de Atendimento da Lamparina para chamá-lo(a) para reuniões com clientes.
+
+
+<div class="master-tip">
+	<b class="master-title">DICA DE MESTRE</b> 
+	<p>Conheça a galera da Lamparina e faça uma negociação com eles! Eles são muito divertidos e amigáveis e você com certeza vai aprender algo legal! Faça parte do <a href="https://cejotalamps.slack.com/">Slack CêJotaLamps</a>!</p>
+</div>
 
 -> A CJR e a Lamparina cultivam uma parceria de projetos em conjunto, onde uma empresa terceiriza o trabalho da outra. Dessa forma, facilitamos a comunicação com o cliente e fechamos projetos com Design e Desenvolvimento.
 
-[1]: Sistemas de gestão interna de empresas normalmente não precisam ser bonitos, então pode ter só um Bootstrap nele.
 
 #### Sobre os Tipos de Contrato
 
 Conversar com o cliente sobre os tipos de contratos que a CJR dispõe. Existe a proposta com escopo fechado, na qual definimos que funcionalidades o sistema terá e realizamos a precificação em relação à isso. A outra opção é trabalhar com escopo aberto, no qual disponibilizamos um determinado tempo de trabalho em que o cliente terá os desenvolvedores livres para implementarem qualquer funcionalidade, sendo pagos mensalmente. Explique as vantagens e as desvantagens de cada tipo de contrato para que o cliente possa escolher qual seria mais vantajosa para ele.
 
-**DICA DE MESTRE**  Escopo aberto funciona melhor com Startups que estão querendo validar o Modelo de Negócios, pois dá liberdade à experimentação e à criatividade. Escopo fechado é bom para organizações consolidadas, que sabem o que querem e o que precisam. O valor da hora no escopo aberto é mais cara que o escopo fechado pois dá mais liberdade para o cliente!!
-
+<div class="master-tip">
+	<b class="master-title">DICA DE MESTRE</b> 
+	<p>Escopo aberto funciona melhor com Startups que estão querendo validar o Modelo de Negócios, pois dá liberdade à experimentação e à criatividade. Escopo fechado é bom para organizações consolidadas, que sabem o que querem e o que precisam. O valor da hora no escopo aberto é mais cara que o escopo fechado pois dá mais liberdade para o cliente!!</p>
+</div>
 
 No Contrato de Escopo Aberto, deve se ter cuidado e deixar claro ao cliente que existem certas funcionalidades cujo a implementação é inviável para nós.
 	Exemplos:
@@ -85,6 +98,8 @@ Quanto ao levantamento propriamente dito, ****
 >* Tente identificar as funcionalidades do sistema e dividi-las em módulos. Descreva que função estes módulos exercem no sistema e defina seu tempo de desenvolvimento de acordo com a complexidade da funcionalidade.
 
 
+--------------------------------------------------------
+
 ## Terceira Reunião: **Proposta**
 
 Uma vez pronta e devidamente revisada, o negociador deve convidar o cliente a uma reunião para apresentação da proposta. Além da proposta, o negociador deve criar uma apresentação a partir do modelo (em NAM > Atendimento > Propostas) para apresentar a proposta de forma mais visual e persuasiva.
@@ -92,6 +107,7 @@ Daqui, a negociação pode progredir de duas maneiras: fechamento do contrato, o
 O objetivo desse encontro é explicar aquilo que foi escrito no contrato e sanar todas as dúvidas que o freguês pode vir a ter sobre ele, além de discutir uma possível mudança de preço.
 Essa reunião pode (e deve) ser realizada quantas vezes forem necessárias, até que a proposta se acomode aos desejos do cliente, ou seja determinada inviável a execução do projeto como ele deseja.
 
+--------------------------------------------------------
 
 ## Quarta Reunião: **Fechamento**
 
