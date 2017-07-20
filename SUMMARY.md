@@ -19,3 +19,4 @@
 	* [4 Controle de Membros](nut/controle-de-membros.md)
 	* [5 Controle de Faltas e Penalidades](nut/controle-de-faltas-e-penalidades.md)
 	* [6 Integrações](nut/integracoes.md)
+	* [7 Afastamento](nut/afastamento.md)
