@@ -20,3 +20,4 @@
 	* [5 Controle de Faltas e Penalidades](nut/controle-de-faltas-e-penalidades.md)
 	* [6 Integrações](nut/integracoes.md)
 	* [7 Afastamento](nut/afastamento.md)
+	* [8 Política de Benefícios](nut/politica-de-beneficios.md)
