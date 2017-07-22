@@ -21,3 +21,4 @@
 	* [6 Integrações](nut/integracoes.md)
 	* [7 Afastamento](nut/afastamento.md)
 	* [8 Política de Benefícios](nut/politica-de-beneficios.md)
+	* [9 Processo Seletivo](nut/processo-seletivo.md)
