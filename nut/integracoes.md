@@ -22,3 +22,18 @@ Os membros do NUT são os maiores responsáveis pelo Integra, mas os outros memb
 * Bebidas para a festa;
 * Convidar ex-membros e membros para palestras motivacionais (com uma boa antecedência e continuamente lembrá-los);
 * Uma casa com espaço para quem for dormir no local.
+
+---
+
+### Festa Trainee:
+
+A Festa Trainee é um evento que ocorre ao fim do Processo Trainee onde os trainees (recém efetivados como membros), devem organizar e providenciar tudo o que será necessário, tal como:
+
+* Ingressos (valor arrecadado será utilizado para reembolsar o invesimento, o que sobrar irá para a conta da CJR);
+* Local (recomenda-se a casa de algum trainee/membro/ex-membro);
+* Comida;
+* Bebida (recomenda-se Extrato, a bebida do MEJ, além de outras);
+* Atrações (opcional);
+* Música (recomendam-se playlists colaborativas no Spotify).
+
+Para mais detalhes, basta entrar em contato com membros ou ex-membros.
