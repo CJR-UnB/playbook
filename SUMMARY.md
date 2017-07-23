@@ -22,3 +22,4 @@
 	* [7 Afastamento](nut/afastamento.md)
 	* [8 Política de Benefícios](nut/politica-de-beneficios.md)
 	* [9 Processo Seletivo](nut/processo-seletivo.md)
+	* [10 Processo Trainee](nut/processo-trainee.md)
