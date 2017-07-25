@@ -8,24 +8,23 @@ Caberá ao Pequeno Conselho e ao Núcleo de Desenvolvimento e Pesquisa a defini�
 
 A equipe é formada por:
 
-- Líder de Desenvolvimento e Pesquisa
+- Product Owner
 - Scrum Master
 - 2 desenvolvedores
-- Padrinho
 
 > #### Atribuições dos membros da equipe
 > 
 > **Líder de Desenvolvimento e Pesquisa:**
 > responsável pelo acompanhamento do projeto juntamente com o Scrum Master.
 > 
+> **Product Owner:**
+> O cliente do projeto é o responsável por determinar as suas necessidades através do Product Backlog e de definir, também, a prioridade de execução dos módulos.
+> 
 > **Scrum Master:**
 > seguirá os ritos do Scrum, gerenciando a equipe de desnevolvimento e acompanhando de perto todo o processo, eliminando as dificuldades que por ventura possam aparecer. Realiza também a interface de _feedback_ com o cliente. Não é obrigatório que o Scrum Master desenvolva o projeto, o mesmo deverá ficar focado na gestão e na interface com o Líder de Desenvolvimento e Pesquisa.
 > 
 > **Desenvolvedor:** 
-> _backend_ ou _frontend_, desenvolverá o projeto, sendo auxiliado pelo Padrinho.
-> 
-> **Padrinho:**
-> o membro da equipe com conhecimento técnico suficiente para tirar dúvidas pontuais dos desenvolvedores e realizar _codemeetings_ sempre que possível.
+> _backend_ ou _frontend_, desenvolverá o projeto, sendo auxiliado pelo Scrum Master.
 
 #### Passo 2: realização de tarefas pontuais
 
