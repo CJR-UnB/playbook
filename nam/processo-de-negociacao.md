@@ -3,13 +3,11 @@
 
 --------------------------------------------------------
 
-## Primeira Reunião: Conhecendo o Cliente
+## Primeira Reunião: conhecendo o cliente
 
 #### Em geral...
 
-as negociações chegam pelo formulário de Informações do Cliente, pelo e-mail de contato da CJR ou pela página do Facebook. Uma pessoa do Núcleo de Atendimento e Marketing é designada para repassar cada negociação para algum negociador. Nesse caso, é preciso responder ao cliente, encaminhando o form de pré-negociação (o facebook já faz essa parte automaticamente), e marcar uma data para a próxima reunião (https://goo.gl/H2yIbM).
-
--> É de extrema importância que todo cliente responda ao formulário de pré-negociação. As informações salvas lá são usadas em análises das negociações.
+as negociações chegam pelo formulário de Informações do Cliente, pelo e-mail de contato da CJR ou pela página do Facebook. Uma pessoa do Núcleo de Atendimento e Marketing é designada para repassar cada negociação para algum negociador. Nesse caso, é preciso responder ao cliente, encaminhando o [Form de Pré-Negociação](https://goo.gl/H2yIbM) (o facebook já faz essa parte automaticamente), e marcar uma data para a próxima reunião. **É de extrema importância que todo cliente responda ao formulário de pré-negociação. As informações salvas lá são usadas em análises das negociações.**
 
 #### Entretanto...
 ocasionalmente, um cliente novo pode vir diretamente à sede procurando ser atendido. Quando pego de surpresa e despreparado desta maneira, o negociador deve conduzir uma reunião de apresentação, que consiste em fazer um questionário presencial do formulário de pré-negociação. Caso o negociador esteja preparado e o cliente já possuir sua idéia estruturada, o negociador pode optar por realizar a Reunião de Levantamento neste primeiro contato.
@@ -62,10 +60,9 @@ Como você deve saber, a CJR não faz layout de aplicação. Dessa forma, se o c
 
 <div class="master-tip">
 	<b class="master-title">DICA DE MESTRE</b> 
-	<p>Conheça a galera da Lamparina e faça uma negociação com eles! Eles são muito divertidos e amigáveis e você com certeza vai aprender algo legal! Faça parte do <a href="https://cejotalamps.slack.com/">Slack CêJotaLamps</a>!</p>
+	<p>A CJR e a Lamparina cultivam uma parceria de projetos em conjunto, onde uma empresa terceiriza o trabalho da outra. Dessa forma, facilitamos a comunicação com o cliente e fechamos projetos com Design e Desenvolvimento. Conheça a galera da Lamparina e faça uma negociação com eles! Eles são muito divertidos e amigáveis e você com certeza vai aprender algo legal! Além disso, faça parte do <a href="https://cejotalamps.slack.com/">Slack CêJotaLamps</a>!</p>
 </div>
 
--> A CJR e a Lamparina cultivam uma parceria de projetos em conjunto, onde uma empresa terceiriza o trabalho da outra. Dessa forma, facilitamos a comunicação com o cliente e fechamos projetos com Design e Desenvolvimento.
 
 
 #### Sobre os Tipos de Contrato
