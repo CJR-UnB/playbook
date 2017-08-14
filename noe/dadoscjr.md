@@ -16,12 +16,12 @@
 	- Conta corrente: 24924-6
 	- Agência: 3603-X
 
-## Dados contador
+## Dados do contador
 
-- Contador antigo(Jocinaldo):
+- Contador antigo (Jocinaldo):
 	- Telefone: 99968-6565
-	- email: jocinaldo@capitalcontabilidade.com
+	- Email: jocinaldo@capitalcontabilidade.com
 
-- Contador atual(Welinton):
+- Contador atual (Welinton):
 	- Telefone: 55 62 99980-1818
-	- email: vieira@wjcontabil.com.br 
+	- Email: vieira@wjcontabil.com.br 
