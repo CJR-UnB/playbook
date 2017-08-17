@@ -73,19 +73,19 @@
 --- 
 
 #### GESTÃO 2012/13
-**Presidente Institucional:** Artur de Azevedo Braga
+**Presidente Institucional:** Arthur de Azevedo Braga
 
 **Presidente Organizacional:** Rafael Scofield Sardenberg
 
-**Diretor de Projetos:** 
+**Coordenador de Projetos:** Felipe Rodopoulos
 
 **Diretor de Finanças e Negócios:** Pedro Vítor Falcetti Sozin
-
-**Diretor de Comunicação:** 
 
 **Diretor de Talentos:** Hermano Portella Leite
 
 **Diretor de Tecnologia da Informação:** Jaqueline Couto Moreira
+
+**Diretor de Comunicação:** cargo em vacância
 <center>
-	<img src="../img/gestao14.jpg" style="width: 600px;">
+	<img src="../img/gestao13.png" style="width: 600px;">
 </center>
