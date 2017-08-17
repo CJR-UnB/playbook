@@ -9,10 +9,11 @@
     
 * NAM
   * [Introdução](nam/nam-introducao.md)  
-  * [2 Atendimento](nam/atendimento.md)
-    * [2.1 Processo de Negociação](nam/processo-de-negociacao.md)
-    * [2.2 Charlates na Venda](nam/charlates.md)
-    * [2.3 S.O.N.C.A.S.E.](nam/soncase.md)
+  * [1 Atendimento](nam/atendimento.md)
+    * [1.1 Processo de Negociação](nam/processo-de-negociacao.md)
+    * [1.2 Charlates na Venda](nam/charlates.md)
+    * [1.3 S.O.N.C.A.S.E.](nam/soncase.md)
+  * [2 Marketing](nam/marketing.md)
 
 * NOE
 	* [1- Introdução NOE](noe/noe-introducao.md)
