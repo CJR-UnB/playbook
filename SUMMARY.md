@@ -14,6 +14,13 @@
     * [2.2 Charlates na Venda](nam/charlates.md)
     * [2.3 S.O.N.C.A.S.E.](nam/soncase.md)
 
+* [Presidência](presidencia/intro.md)
+  * [Institucional](presidencia/institucional/intro.md)
+  	* [Stakeholders](presidencia/institucional/stakeholders.md)
+  * [Organizacional](presidencia/organizacional/intro.md)
+  * [Histórico Gestões](presidencia/historico-gestoes.md)
+  * [Processo de Parceria](presidencia/processo-parceria.md)  
+
 * NOE
 	* [1- Introdução NOE](noe/noe-introducao.md)
 	* 2 - Ferramentas e informações
