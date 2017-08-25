@@ -89,3 +89,22 @@
 <center>
 	<img src="../img/gestao13.png" style="width: 600px;">
 </center>
+
+---
+
+#### GESTÃO 2011/12
+
+**Presidente Institucional:** Paulo Ricardo Giusti (Pauleta)
+
+**Presidente Organizacional:** Renato Leal (Cata)
+
+**Diretor de Relações Externas (Comunicação):** Matheus Parreiras
+
+**Diretor de Finanças e Negócios:** Estêvão Aguiar
+
+**Diretora de Talentos:** Naiara Watanabe
+
+**Diretor de Tecnologia da Informação:** Mateus Antunes / Lucas Shimabuko
+<center>
+	<img src="../img/gestao12.png" style="width: 600px;">
+</center>
