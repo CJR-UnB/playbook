@@ -14,6 +14,8 @@
     * [1.2 Charlates na Venda](nam/charlates.md)
     * [1.3 S.O.N.C.A.S.E.](nam/soncase.md)
   * [2 Marketing](nam/marketing.md)
+  	* [2.1 Processo Seletivo](nam/processo-seletivo.md)
+  	* [2.2 AdWords](nam/adwords.md)
 
 * NOE
 	* [1- Introdução NOE](noe/noe-introducao.md)
