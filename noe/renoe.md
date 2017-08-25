@@ -1,14 +1,14 @@
-# Estrutura da Renoe
+# Estrutura da RENOE
 
-## Como a Renoe é organizada?
-A Renoe segue em base a seguinte estrutura, podendo ser feitas algumas alteraçõoes:
-- Verificação se há um novo reembolso.
-- Checagem dos processos de um a um
-	- Verificar se há algum processo que está atrasado ou pendente.
-- Revisão das tartefas.
+## Como a RENOE é organizada?
+A reunião segue seguinte estrutura:
+- Verificação de novos reembolsos.
+- Checagem dos processos um a um
+	- Verificar se há algum processo atrasado ou pendente.
+- Revisão das tarefas.
 	- Repasse geral de todas as tarefas.
-	- Verificar quais tarefas foram e não foram feitas, assim como seu antamento.
-- Acompanhamento e repasses dos nucleos.
-- Destribuição de novas tarefas.
+	- Verificar quais tarefas foram feitas ou não foram feitas.
+- Acompanhamento e repasses dos núcleos.
+- Distribuição de novas tarefas.
 
-#### Toda reunião deve ser registrada no sistemas de ata [SGA](http://sga.cjr.org.br/users/sign_in) por um consultor.
+#### Toda reunião deve ser registrada no sistema de atas [SGA](http://sga.cjr.org.br/users/sign_in) por um consultor.
