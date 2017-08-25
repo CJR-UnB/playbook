@@ -8,8 +8,9 @@
     * [1.2 Exclusão de Email](ndp/processo-de-exclusao-de-email.md)
 
 * [Presidência](presidencia/intro.md)
-  * [Institucional](presidencia/institucional/intro.md)
-  	* [Stakeholders](presidencia/institucional/stakeholders.md)
+  * [1 Institucional](presidencia/institucional/intro.md)
+  	* [1.1 Stakeholders](presidencia/institucional/stakeholders.md)
+  	* [1.2 Apresentação para os Calouros](presidencia/institucional/apresentacao-calouros.md)
   * [Organizacional](presidencia/organizacional/intro.md)
   * [Histórico Gestões](presidencia/historico-gestoes.md)
   * [Processo de Parceria](presidencia/processo-parceria.md)  
