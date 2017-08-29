@@ -30,6 +30,7 @@
 		* [2.4- Estrutura Renoe](noe/renoe.md)
 	* 3 - Processos adm-fim
 		* [3.1- Reembolso NOE](noe/reembolso.md)
+		* [3.2- Demonstrativo Financeiro](noe/demonstrativofin.md)
 
 * NUT
 	* [1 Acompanhamento](nut/acompanhamento.md)
