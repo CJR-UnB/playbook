@@ -20,65 +20,37 @@ No SONCASE cada letra equivale à um tipo de cliente, e cada cliente vai ter um 
 #### S - SEGURANÇA
 
 
-## Resumo:
-# Valoriza a segurança física e psicológica;
-# Busca minimizar os riscos.		
+* **Resumo:** Valoriza a segurança física e psicológica; Busca minimizar os riscos.		
 
-## Comportamento :
-# Costuma ser bastante detalhista;
-# Tende a fazer bastantes perguntas;
-# Procura não correr risco;
-# Tende a pedir por provas e depoimentos de outros clientes.
+* **Comportamento :** Costuma ser bastante detalhista; Tende a fazer bastantes perguntas; Procura não correr risco; Tende a pedir por provas e depoimentos de outros clientes.
 
-## O que busca?
-# Exemplos de confiança que já foi feito pela empresa;
-# Ter certeza de que o produto será entregue bom e que possa ter uma assistência futura.
+* **O que busca?** Exemplos de confiança que já foi feito pela empresa; Ter certeza de que o produto será entregue bom e que possa ter uma assistência futura.
 
-## O que evitar?
-# Demonstrar insegurança tanto físico quanto psicológico(como conhecimento);
-# Dar ênfase ao erro;
-# Mencionar riscos sem uma resposta planejada.
+* **O que evitar?** Demonstrar insegurança tanto físico quanto psicológico(como conhecimento); Dar ênfase ao erro; Mencionar riscos sem uma resposta planejada.
 
 -------------------------------------------
 
 #### O - ORGULHO
 
-## Resumo :
-# Deseja ser valorizado;
-# Costuma ser motivado pelo ego.
+* **Resumo :** Deseja ser valorizado; Costuma ser motivado pelo ego.
 
-## Comportamento :
-# Tem o costume de dominar a reunião;
-# Egocêntrica;
-# É orgulhosa e gosta de falar sobre si.
+* **Comportamento :** Tem o costume de dominar a reunião; Egocêntrica; É orgulhosa e gosta de falar sobre si.
 
-## O que busca?
-# Exclusividade(como se fosse fazer o projeto tendo a pessoa como base);
-# Notoriedade e reconhecimento sobre ela;
-# Privilégios e poder sobre o projeto.
+* **O que busca?** Exclusividade(como se fosse fazer o projeto tendo a pessoa como base); Notoriedade e reconhecimento sobre ela; Privilégios e poder sobre o projeto.
 
-## O que evitar ?
-# Não demonstrar respeito ou admiração à marca/pessoa.
+* **O que evitar ?** Não demonstrar respeito ou admiração à marca/pessoa.
 
 --------------------------------------------
 
 #### N - NOVIDADE
 
-## Resumo :
-# Valoriza inovação e mudanças.
+*  **Resumo :** Valoriza inovação e mudanças.
 
-## Comportamento :
-# Costuma fazer muitas perguntas;
-# Espontâneo;
-# Fala muito sobre mudanças.
+* **Comportamento :** Costuma fazer muitas perguntas; Espontâneo; Fala muito sobre mudanças.
 
-## O que busca?
-# Originalidade;
-# Inovação;
-# Mudança.
+* **O que busca? :** Originalidade; Inovação; Mudança.
 
-## O que evitar ? 	
-# Focar em cases idênticos anteriores.
+* **O que evitar ? :**  Focar em cases idênticos anteriores.
 
 
 
