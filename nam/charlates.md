@@ -17,7 +17,7 @@ Muitas vezes, procuramos diversas formas de passar a mensagem para o interlocuto
 #### O PROCESSO DE VENDA
 O processo de venda, para que aconteça com sucesso, depende de basicamente duas etapas:
 
-1. **Pré Charlate:** Definição de um produto / serviço que gere verdadeiro valor ao comprador;
+1. **Pré Charlate:** Definição de um produto / serviço que gere verdadeiro valor ao comprador; (a NDP é responsável por capacitar pessoas para poder fazer isso)
 
 2. **Charlate:** Processo de convencimento do interlocutor para fechamento da venda.
 

@@ -1,5 +1,7 @@
 # Processo Seletivo
 
+---
+
 ## 1º Passo: Alocar Uma Equipe
 Um projeto precisa de uma equipe, e o Processo Seletivo é um projeto de extrema importância para o crescimento saudável da CJR. Esse modelo recomenda uma equipe de tamanho médio (3 pessoas para cuidarem da divulgação e 5 para cuidarem das entrevistas e dinâmicas, totalizando 8), mas esse número pode ser reduzido, a depender da experiência e disponibilidade dos envolvidos.
 
@@ -12,16 +14,16 @@ Idealmente, uma vez alocados os membros do projeto, essa fase seria executada co
 A mais básica ferramenta de divulgação da empresa são as mídias sociais. Devem ser feitas postagens a cada semana do processo seletivo (4 no mínimo), cada uma delas detalhada a seguir:
   * Uma postagem de abertura, contendo informações básicas como o período de inscrições.
   * Duas postagens secundárias, com algum conteúdo chamativo que complemente o marketing sendo feito fora das redes sociais.
-  * Uma postagem de encerramento, dizendo quando o processo seletivo do semestre que vem será aberto, com o intuito de fazer com que quem perdeu as inscrições se programe para participar do PS seguinte.
+  * Uma postagem de encerramento, listando os aprovados e dizendo quando o processo seletivo do semestre que vem será aberto, com o intuito de fazer com que quem perdeu as inscrições se programe para participar do PS seguinte.
 
-Além das mídias sociais, esse modelo também recomenda o uso do marketing de guerrilha, caracterizado pela sua inconvencionalidade e baixo custo, ambas características que interagem bem com a natureza de uma empresa júnior. Esse tipo de marketing também tem dado melhores resultados tanto nas pesquisas feitas por membros (incluindo benchmarking com outras EJs), quanto quando comparado com outras práticas, como cartazes comuns. Ao final deste documento estarão anexadas (e deverão continuar sendo anexadas futuras) campanhas de marketing de semestres passados, a fim de exemplificar e documentar as práticas aqui descritas.
+Além das mídias sociais, esse modelo também recomenda o uso do **marketing de guerrilha**, caracterizado pela sua inconvencionalidade e baixo custo, ambas características que interagem bem com a natureza de uma empresa júnior. Esse tipo de marketing também tem dado melhores resultados tanto nas pesquisas feitas por membros (incluindo benchmarking com outras EJs), quanto quando comparado com outras práticas, como cartazes comuns. Ao final deste documento estarão anexadas (e deverão continuar sendo anexadas futuras) campanhas de marketing de semestres passados, a fim de exemplificar e documentar as práticas aqui descritas.
 
 
 ## 3º Passo: Selecionar Os Candidatos
 Uma vez devidamente planejada a sua divulgação, o processo seletivo pode começar de fato. As entrevistas devem começar a ser agendadas assim que a primeira pessoa se inscreva (a inscrição é feita pelo site da CJR), enquanto a dinâmica precisa ser feita após o fim das inscrições, na última semana do primeiro mês de aula.
 
 ### 3.1: Dinâmica
-A dinâmica é feita nos horários de almoço e jantar, garantindo que não atrapalhe os horários de nenhum candidato e cada um pode optar por quando fazê-la. Cada dinâmica deve durar aproximadamente 1 hora. Não há a necessidade de fazer a dinâmica mais de uma vez. Ela também deve ser feita durante os últimos dias do PS, depois que as inscrições forem encerradas.
+A dinâmica é feita nos horários de almoço e jantar, garantindo que não atrapalhe os horários de nenhum candidato e cada um pode optar por quando fazê-la. Cada dinâmica deve durar aproximadamente 1 hora. Não há a necessidade de fazer a dinâmica mais de uma vez, porém ela é obrigatória. Logo, é importante lembrar de anotar quais candidatos participaram em cada instância da dinâmica. Ela também deve ser feita durante os últimos dias do PS, depois que as inscrições forem encerradas.
 
 Tradicionalmente a dinâmica começa com um quebra gelo, que nada mais é do que algo que faça os candidatos rirem e se sentirem mais à vontade. Podem ser encontrados diversos exemplos no drive da CJR (em [NUT > Gestão 2016-2017 > PS-PT](https://drive.google.com/drive/folders/0B5cTnCcq1VXLUWkxbGFWZmg4LVE)).
 

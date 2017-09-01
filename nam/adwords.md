@@ -16,7 +16,7 @@ Com o auxílio do [guia](https://medium.com/@concentrodf/fazendo-sua-ej-decolar-
 * Apenas anúncios de texto que aparecem como resultado de pesquisas no Google, em posições abaixo dos anúncios efetivamente pagos. (vale a pena explicar melhor o que isso quer dizer)
 
 ## Gerenciamento da conta
-O email cadastrado no serviço é o noe@cjr.org.br e o ID do cliente é 440-799-1990
+O email cadastrado no serviço é o noe@cjr.org.br e o ID do cliente é 440-\*\*\*-\*\*\*
 
 Para que se continue a anunciar com o Ad Grants é preciso:
 * Fazer login na conta no mínimo uma vez por mês.
