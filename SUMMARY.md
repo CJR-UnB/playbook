@@ -7,7 +7,12 @@
     * [1.1 Desenvolvimento de Projetos](ndp/processo-de-desenvolvimento.md)
     * [1.2 Criação de Email](ndp/processo-de-criacao-de-email.md)
     * [1.3 Exclusão de Email](ndp/processo-de-exclusao-de-email.md)
-    
+    * [1.4 Gestão de Domínios](ndp/processo-de-gestao-de-dominios.md)
+    * [1.5 Gestão de Servidor](ndp/processo-de-gestao-de-servidor.md)
+    * [1.6 Gestão do Github](ndp/processo-de-gestao-do-github.md)
+    * [1.7 Gestão do Drive](ndp/processo-de-gestao-do-drive.md)
+  * 2 [Processo Trainee](ndp/processo-trainee.md)
+    * [2.1 Configuração do Workspace](ndp/configuracao-do-workspace.md)
 * NAM
   * [Introdução](nam/nam-introducao.md)  
   * [2 Atendimento](nam/atendimento.md)
