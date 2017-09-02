@@ -5,7 +5,8 @@
 * NDP
   * 1 Processos
     * [1.1 Desenvolvimento de Projetos](ndp/processo-de-desenvolvimento.md)
-    * [1.2 Exclusão de Email](ndp/processo-de-exclusao-de-email.md)
+    * [1.2 Criação de Email](ndp/processo-de-criacao-de-email.md)
+    * [1.3 Exclusão de Email](ndp/processo-de-exclusao-de-email.md)
     
 * NAM
   * [Introdução](nam/nam-introducao.md)  
