@@ -62,6 +62,9 @@ E o que você deve observar depois de ter adicionado ela:
 2. IQ
 3. Posição média (vale a pena explicar isso melhor)
 
+(bench doisnovemeia) Analisar as palavras chave como se você fosse o próprio cliente, por exemplo:
+"automação de tarefas" pode não ser uma boa palavra-chave, enquanto "excel tutorial" pode ser (a ideia é captar alguem que queira algo automatizado e ser apresentado a nós como uma alternativa). Buscar por referências também, por exemplo: palavras chave como "sites bonitos", "sites responsivos" (a ideia é que ninguém pesquisa por sites bonitos só para ver, tem sempre um interesse em fazer o site). 
+
 ### Anúncio
 Junto aos demais integrantes da NAM, deve-se propor um objetivo e traçar uma estrátegia para os títulos e o texto do anúncio.
 Em geral, os títulos podem ter o nome da CJR - Empresa júnior de Computação da UnB , alguma palavra-chave que precise estar mais visível aos possíveis clientes ou algum serviço específico escolhido na estratégia formulada.
@@ -75,6 +78,11 @@ Já para formular a descrição, deve-se considerar o seguinte:
 * **VERIFICAR A GRAMÁTICA E A ORTOGRAFIA**
 
 Nas extensões de anúncio, tente também adicionar frases de destaque para promover e evidenciar os aspectos mais conhecidos da CJR (custo-benefício, comunicação direta com os desenvolvedores, rápido atendimento, ...) e sitelinks, para diminuir a barreira entre o cliente e em como ele entrará em contato com a CJR.
+
+### CTR e Conversão (bench doisnovemeia)
+O CTR, como já explicado acima, é a eficiência que o seu anúncio está tendo em questões de cliques, ou seja, qual a taxa de pessoas que clicam no seu anúncio após vizualizá-lo. A taxa do CTR geralmente é baixa, portanto um valor entre 4~5 % são considerados bons.
+
+A Taxa de Conversão aqui é a mais importante, porque ela leva em conta a quantidade de pessoas que clicaram no anúncio e adquiriram o serviço fornecido. A conversão para ser eficiente deve estar em 50%, ou seja, 50 a cada 100 pessoas que clicaram no anúncio devem fechar projeto conosco. Uma conversão baixa reflete uma estratégia ruim nos anúncios.
 
 ### Dados
 [...]
