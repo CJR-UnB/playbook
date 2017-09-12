@@ -5,6 +5,9 @@
 
 - Inscrição estadual: 07.407.433/001-69
 
+- Tipo de atividade: Prestação de Serviços
+- Regime Tributário: Regime Normal - Lucro Real
+- CNAE: 8550302 Atividades de apoio á educação, exceto caixas escolares 
 
 - CEP/Endereço:
 	- 70910-900
