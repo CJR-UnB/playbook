@@ -1,4 +1,4 @@
-# AdWords
+# Google AdWords/AdGrants
 
 ---
 
