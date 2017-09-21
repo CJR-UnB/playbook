@@ -1,33 +1,32 @@
 # Certificado digital
 
-### O que é o certificado digital
-Falando de forma informal, o certificado digital, é um certificado que você instala no seu browser ou em um programa desejado, com o objetivo de vc alegar que você realmente é a pessoa que diz que é. Notas fiscais por exemplo são coisas que so podem ser emitidas com o certificado digital.
+### O que é o certificado digital?
+Falando de forma informal o certificado digital, é um certificado que precisa ser instalado no seu browser ou em um programa desejado, com o objetivo de confirmar sua identidade. Notas fiscais por exemplo só podem ser emitidas através do certificado digital.
 
-### Como se conseguir um
-Para conseguir um novo certificado é necessario que o novo presidente ja esteja registrado na receita federal. Apesar de ser um processo demorado, é algo muito factivel ser feito em uma semana, basta não enrolar.
+### Como se conseguir um?
+Para conseguir um novo certificado digital é necessário que o presidente da empresa já esteja registrado na Receita Federal. Apesar de ser um processo lento pode ser feito dentro de uma semana.
 
-Existem mt empresas que geram certificados, mas recomendo a do correios, [SERPRO](https://certificados.serpro.gov.br/arcorreiosrfb/).
+Existem muitas empresas que geram certificados digitais, porém recomendo a do Correios: [SERPRO](https://certificados.serpro.gov.br/arcorreiosrfb/).
 
-1) Vá em "Meu Certificado => solicitar => CNPJ", selecione certificado A1, ponha os dados da CJR e prossiga.
+1) Primeiro vá em "Meu Certificado => Solicitar => CNPJ", selecione certificado A1, preencha os dados da CJR e prossiga.
 
-2) Você receberá um email com seu número do certificado, chave de acesso... NÃO PERCA ESSES DADOS!
+2) Você receberá um email com o número do seu certificado, chave de acesso, etc. NÃO PERCA ESTES DADOS!
 
-3) finalizando, voê precisará ligar no correios e marcar um horario para buscar o certificado(necessario presença do presidente)
+3) Para finalizar, voê precisa ligar no Correios e marcar um horário para buscar o certificado (é obrigatória a presença do presidente).
 
-4) O que levar:
-É sempre bom conferir antes, pois essas coisas muda com o tempo, mas a princípio, é:
-- Ato consultivo(estatuto social)
-- Documentos de eleição(ata de eleição registrada por cartório)
-- Documento do CNPJ(Necessário para o selo EJ. basta consultar http://www.receita.fazenda.gov.br)
-- Documento do INSS(Necessário para o selo EJ)
-- Comprovante de residência do presidente.
-- 225,00 R$(em dinheiro)
+4) O que levar?
+O processo pode mudar com o tempo então é sempre bom conferir antes, mas a princípio:
+- Ato consultivo (estatuto social)
+- Documentos de eleição (ata de eleição registrada no cartório)
+- Documento do CNPJ (necessário para o selo EJ, basta consultar http://www.receita.fazenda.gov.br)
+- Documento do INSS (necessário para o selo EJ)
+- Comprovante de residência do presidente
+- R$225,00 (em dinheiro)
 
-5) Apos ir no correio, você receberá um email com as informações para instalar o certificado. O ideal é instalar na internet explerer, conforme o tutorial.
+5) Após ir ao Correios, você receberá um email com as informações necessárias para instalar o certificado. O ideal é instalar no Internet Explorer, conforme o tutorial.
 
 ## OBS:
-- Aconselho sempre levar duas vias de cada documento
-- Não demore para instalar o certificado, se não, você precisará refaser todo o processo
--
-- Duvidas maiores e remanecentes, consulte o contador, ele saberá explicar o processo
+- Aconselho levar sempre duas vias de cada documento.
+- Não demore para instalar o certificado ou você precisará refazer todo o processo.
+- Para dúvidas maiores ou remanescentes consulte o contador ele saberá explicar todo o processo.
 
