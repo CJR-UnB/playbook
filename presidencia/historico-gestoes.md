@@ -108,3 +108,22 @@
 <center>
 	<img src="../img/gestao12.png" style="width: 600px;">
 </center>
+
+---
+
+#### GESTÃO 2010/11
+
+**Presidente Institucional:** Pricila Rodrigues Gomes (Pri)
+
+**Presidente Organizacional:** Lucas Lo Ami (Pips)
+
+**Diretor de Relações Externas (Comunicação):** Vinicius Tafuri Carvalho (Tafuri)
+
+**Diretor de Finanças e Negócios:** Estêvão Aguiar
+
+**Diretora de Talentos:** Paulo Ricardo Giusti (Pauleta)
+
+**Diretor de Tecnologia da Informação:** Renato Leal (Cata)
+<center>
+	<img src="../img/gestao11.png" style="width: 600px;">
+</center>
