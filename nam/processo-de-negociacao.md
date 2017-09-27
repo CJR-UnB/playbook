@@ -86,7 +86,17 @@ Um levantamento bem sucedido se baseia no conhecimento do entrevistador tanto so
 
 Por esse motivo, é essencial cuidar da gestão desses conhecimentos. A forma mais eficiente disso ser efetuado é incluindo um negociador secundário menos experiente na reunião. Durante esse encontro, o secundário tomará nota de tudo que o cliente disser (na medida do possível). Dessa forma, o líder mostra como conduzir uma reunião de levantamento de requisitos na prática, enquanto o secundário o auxilia nessa tarefa e adquire experiência sobre o assunto.
 
-Quanto ao levantamento propriamente dito, é recomendado conversar com membros antigos e antigos negociadores da CJR para ver se é possível receber um treinamento. Professores da área de Engenharia de Software também podem te ajudar. Alguns nomes: Rodrigo Bonifácio e Gustavo Van Erven.
+Quanto ao levantamento propriamente dito, é recomendado conversar com membros antigos e antigos negociadores da CJR para ver se é possível receber um treinamento. Professores da área de Engenharia de Software também podem te ajudar. Alguns nomes: **Rodrigo Bonifácio** e **Gustavo Van Erven**.
+
+#### Formas de Pagamento
+Por *default*, temos duas formas de pagamento:
+
++ À vista, com 5% de desconto;
++ Parcelado em duas vezes, uma vez no começo de entrada e a outra na entrega do projeto. Parcelas de mesmo valor.
+
+Tenha em mente que essas formas de pagamento são padrão, mas você pode ser beeeem flexível com o cliente nessa questão. 
+
+A única regra é que o pagamento aconteça enquanto o projeto acontece. Por exemplo, se o projeto dura 4 meses, o projeto pode ser parcelado, no máximo, em 4 vezes. **Importante**: o pagamento da parcela deve ser feito até o dia 5 de cada mês.
 
 #### Entre Reuniões:
 * Sanar qualquer dúvida sobre as funcionalidades do projeto com o cliente.
