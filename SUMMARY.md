@@ -22,8 +22,9 @@
     * [2.3 S.O.N.C.A.S.E.](nam/soncase.md)
 
 * [Presidência](presidencia/intro.md)
-  * [Institucional](presidencia/institucional/intro.md)
-  	* [Stakeholders](presidencia/institucional/stakeholders.md)
+  * [1 Institucional](presidencia/institucional/intro.md)
+  	* [1.1 Stakeholders](presidencia/institucional/stakeholders.md)
+  	* [1.2 Apresentação para os Calouros](presidencia/institucional/apresentacao-calouros.md)
   * [Organizacional](presidencia/organizacional/intro.md)
   * [Histórico Gestões](presidencia/historico-gestoes.md)
   * [Processo de Parceria](presidencia/processo-parceria.md)  
