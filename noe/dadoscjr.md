@@ -5,6 +5,9 @@
 
 - Inscrição estadual: 07.407.433/001-69
 
+- Tipo de atividade: Prestação de Serviços
+- Regime Tributário: Regime Normal - Lucro Real
+- CNAE: 8550302 Atividades de apoio á educação, exceto caixas escolares 
 
 - CEP/Endereço:
 	- 70910-900
@@ -16,12 +19,12 @@
 	- Conta corrente: 24924-6
 	- Agência: 3603-X
 
-## Dados contador
+## Dados do contador
 
-- Contador antigo(Jocinaldo):
+- Contador antigo (Jocinaldo):
 	- Telefone: 99968-6565
-	- email: jocinaldo@capitalcontabilidade.com
+	- Email: jocinaldo@capitalcontabilidade.com
 
-- Contador atual(Welinton):
+- Contador atual (Welinton):
 	- Telefone: 55 62 99980-1818
-	- email: vieira@wjcontabil.com.br 
+	- Email: vieira@wjcontabil.com.br 
