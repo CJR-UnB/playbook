@@ -3,6 +3,7 @@
 ---
 
 ## Qual o rolê?
+
 O Google oferece para empresas sem fins lucrativos o serviço do Ad Grants. Com ele, a empresa recebe U$10.000 _**por mês**_ em publicidade no Google AdWords. Mas o que isso tudo faz? Nas palavras da equipe Concentro:
 
 >"Em um resumão, ele é o sistema da Google onde os anunciantes podem colocar seus anúncios para aparecerem nas pesquisas Google. Para cada clique que o anúncio recebe, o anunciante paga um valor, que varia de acordo com a palavra-chave que ele escolhe e a concorrência desta — ou seja, se a palavra é muito concorrida, ela vai custar caro."
@@ -10,12 +11,14 @@ O Google oferece para empresas sem fins lucrativos o serviço do Ad Grants. Com 
 Com o auxílio do [guia](https://medium.com/@concentrodf/fazendo-sua-ej-decolar-em-4-passos-f1dea0e9a9b8) feito pela concentro (e de muita garra e sangue nos olhos) conseguimos com que a inscrição da CJR nesse projeto fosse aprovada.
 
 ## Limites do programa
+
 * Orçamento de U$329,00 por dia (o que é equivalente a U$10.000/mês).
 * CPC (custo por clique) de no máximo U$2,00.
 * Apenas campanhas que usam [palavras-chave](#palavras-chave). 
 * Apenas [anúncios de texto](#anuncio) que aparecem como resultado de pesquisas no Google, em posições abaixo dos anúncios efetivamente pagos.
 
 ## Gerenciamento da conta
+
 O email cadastrado no serviço é o noe@cjr.org.br e o ID do cliente é 440-\*\*\*-\*\*\*
 
 Para que se continue a anunciar com o Ad Grants é preciso:
@@ -29,6 +32,7 @@ Para que se continue a anunciar com o Ad Grants é preciso:
 </div>
 
 ## Criando uma campanha
+
 Ao criar uma nova campanha é extremamente importante seguir as seguintes configurações:
 
 * Tipo: escolha Apenas na Rede de Pesquisa.
@@ -42,6 +46,7 @@ Ao criar uma nova campanha é extremamente importante seguir as seguintes config
 O próximo passo é configurar o anúncio a ser veiculado na campanha e suas palavras-chave.
 
 ### <a name="palavras-chave"></a> Palavras-chave
+
 O Google, através das palavras-chave, consegue identificar o que você está procurando e te dar respostas relacionadas a sua pesquisa. Existem diversos fatores que influenciam na ordem em que essas respostas são organizadas ([SEO](https://rockcontent.com/guia/seo/)), mas o fator que iremos focar aqui é a busca paga. Nele, o anunciante paga ao Google um valor(por clique em seu anúncio) para que ele fique dentro das primeiras posições junto com as respostas orgânicas.
 
 No caso da CJR, não precisamos nos preocupar tanto em relação a este CPC (custo por clique) no sentido monetário (Ad Grants *tuts tuts*), mas é importante, na hora de planejar sua palavra-chave, estar sempre ciente de que, quanto maior o CPC, mais privilegiada será aquela palavra. Para determinar a classificação do anúncio e sua posição na hora da busca, são levados em consideração:
@@ -73,6 +78,7 @@ E o que você deve observar depois de ter adicionado ela:
 "automação de tarefas" pode não ser uma boa palavra-chave, enquanto "excel tutorial" pode ser (a ideia é captar alguem que queira algo automatizado e ser apresentado a nós como uma alternativa). Buscar por referências também, por exemplo: palavras chave como "sites bonitos", "sites responsivos" (a ideia é que ninguém pesquisa por sites bonitos só para ver, tem sempre um interesse em fazer o site). 
 
 ### <a name="anuncio"></a> Anúncio
+
 (bench doisnovemeia) Evitar anuncios muito poluidos, cheio de informações.
 Junto aos demais integrantes da NAM, deve-se propor um objetivo e traçar uma estrátegia para os títulos e o texto do anúncio.
 
@@ -100,13 +106,24 @@ Adicionar extensões não são garantia de que elas apareceram para todas as imp
 
 Para exemplos de como essas extensões serão mostradas em seu anúncio e informações mais detalhadas de como elas funcionam consulte [este site](https://support.google.com/adwords/answer/2375499?hl=pt-BR).
 
-### CTR e Conversão (bench doisnovemeia)
+### Ferramentas externas
+
+A CJR utiliza duas ferramentas adicionais do google para auxiliar o planejamento das campanhas e palavras-chave, Google Analytics e o Google Trends.
+
+O Analytics é o sistema do Google de monitoramento do tráfego de websites. Seu objetivo, além de mostrar a quantidade de usuários que acessam o site, é mostrar as formas que estes se comportam ao navegar por suas páginas e sua origem. Por isso esta ferramenta é indispensável ao membro responsável pelo marketing digital da CJR. Entender melhor a interação dos usuários com o site ou campanha de marketing online é fundamental para a análise de uma campanha ativa, ou seja, saber se os visitantes estão tendo o comportamento esperado e, se não, o decidir o que foi feito para se corrigir o problema.
+
+O Trends é a ferramenta do Google que permite acompanhar a evolução do número de buscas de uma palavra-chave ao longo do tempo. Reúne uma gigantesca base de dados para mostrar a você quais temas estão sendo pesquisados no momento, quais temas relacionados à sua pesquisa as outras pessoas também estão buscando e outros insights. Ele é muito útil na hora da elaboração das palavras-chave da sua campanha, pois é possível refinar sua pesquisa em vários critérios, sejam mais amplos ou mais específicos.
+
+### Benchmark doisnovemeia: CTR e Conversão
+
 O CTR, como já explicado acima, é a eficiência que o seu anúncio está tendo em questões de cliques, ou seja, qual a taxa de pessoas que clicam no seu anúncio após vizualizá-lo. A taxa do CTR geralmente é baixa, portanto um valor entre 4~5 % são considerados bons.
 
 A Taxa de Conversão aqui é a mais importante, porque ela leva em conta a quantidade de pessoas que clicaram no anúncio e adquiriram o serviço fornecido. A conversão para ser eficiente deve estar em 50%, ou seja, 50 a cada 100 pessoas que clicaram no anúncio devem fechar projeto conosco. Uma conversão baixa reflete uma estratégia ruim nos anúncios.
 
 ### Dados
+
 [...]
 
 ## 1 Campanha
+
 [...]
