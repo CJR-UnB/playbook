@@ -6,7 +6,7 @@ Semestralmente devem ser removidos da organização os membros que sairam e adic
 
 Para realizar este processo o membro deve ter acesso de administrador das contas da CJR. Ele deve requisitar ao Líder de Desenvolvimento e Pesquisa esse acesso.
 
-###Repositorios
+### Repositorios
 
 Os repositorios da cjr se encontarm em 'https://github.com/unbcjr'.
 
@@ -28,7 +28,7 @@ Atualmente ela possue 16 repositorios, eles são:
 - ruby_course
 - rails_course
 
-###Adição e exclusão de membros
+### Adição e exclusão de membros
 
 Primeiro é necessário logar no github com a conta do administrador da cjr ('admin@cjr.org.br').
 Quando estiver logado selecione a aba escrito 'adminCJR', selecione entre as opções que
