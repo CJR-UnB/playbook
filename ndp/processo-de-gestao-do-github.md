@@ -50,7 +50,7 @@ será mostrado todos os membros afiliados a organização.
 
 Para excluir um membro basta abaixar a pagina até encontrar o membro desejado e clicar no 
 botão de opções, depois selecione a opção em vermelho "Remove from organization", logo após será 
-aberta uma janela onde derar-se confirmar a exclusão apertando o butão "Remove members".
+aberta uma janela onde se derverá confirmar a exclusão apertando o butão "Remove members".
 
 ![Exclusão de um membro](../img/ndp/processo_de_gestão_do_github/exclusão_de_um_membro.png)
 
