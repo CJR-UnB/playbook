@@ -27,5 +27,5 @@ Na nova pagina clique no check box da opção cjr.or.br e deṕois selecione
 Você será levado então para uma pagina de confirmação, selecione 'CONFIRMAR'
 no final da pagina.
 ![Renovando4](../img/ndp/processo_de_gestão_de_dominios/renovando4.png)
-Por fim será mostrada uma pagina que lhe mostará o boleto imprima-o 
+Por fim será mostrada uma pagina que lhe mostará o boleto, imprima-o 
 e o envie para o Nucleo Organizaação Empresarial pagar.
