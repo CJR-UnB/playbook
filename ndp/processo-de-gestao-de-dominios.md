@@ -1,15 +1,15 @@
-#Processo de gestão de domínios
+# Processo de gestão de domínios
 
 A CJR possui uma conta no site registro.br onde lá são feitas as operações
 de gestão dos domínios da CJR.
 
 Para realizar este processo o membro deve ter acesso de administrador das contas da CJR. Ele deve requisitar ao Líder de Desenvolvimento e Pesquisa esse acesso.
 
-###Renovar os domínios
+### Renovar os domínios
 A CJR gerencia 3 domínios:
--BRASILJUNIOR.COM.BR
--CJR.ORG.BR
--CONCENTRO.ORG.BR
+- BRASILJUNIOR.COM.BR
+- CJR.ORG.BR
+- CONCENTRO.ORG.BR
 Ao acessar a conta da CJR você será direcionado a uma pagina mostrando estes três domínios e suas
 respectivas datas de expiração.
 Os membros da CJR devem manter-se atentos a essas datas de expiração pois estás deverão ser
