@@ -1,6 +1,5 @@
 # Processo de Negociação
 
-
 --------------------------------------------------------
 
 ## Primeira Reunião: conhecendo o cliente
@@ -171,7 +170,7 @@ Lista de deveres para guiar o negociador em cada processo de negociação
 - [ ] Use o modelo do Drive para formular a proposta e a ata do SGA para descrever as funcionalidades do projeto (se precisar, leia as propostas antigas)
 - [ ] Para precificar, converse com seu negociador secundário e líderes da NAM e NDP (se for muito louco, corre pros ex-membros)
 - [ ] Exporta pra pdf e bota no drive do respectivo mês. Manda pro cliente mas se achar necessário, marque uma reunião para apresenta-la
-- [ ] No Form, entre na planilha Respostas ao Formulário 1 e bote o status da negociação como 'Proposta enviada'
+- [ ] No Form, entre na planilha Propostas e bote o preço da proposta do projeto lá
 - [ ] No Form, entre na planilha Respostas ao Formulário 1 e bote o status da negociação como 'Proposta enviada'
 
 #### Eita **zão, vai dar contratão?
