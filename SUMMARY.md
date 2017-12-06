@@ -15,7 +15,6 @@
   * 3 [Processo Trainee](ndp/processo-trainee.md)
     * [3.1 Configuração do Workspace](ndp/configuracao-do-workspace.md)
 * NAM
-<<<<<<< HEAD
   * [Introdução](nam/nam-introducao.md)
   * [1 Atendimento](nam/atendimento.md)
     * [1.1 Processo de Negociação](nam/processo-de-negociacao.md)
@@ -29,13 +28,7 @@
   * 3 Ferramentas
 	* [Mapa do Drive](nam/mapa-drive.md)
 	* [Trello](nam/trello.md)
-=======
-  * [1 Introdução](nam/nam-introducao.md)  
-  * [2 Atendimento](nam/atendimento.md)
-    * [2.1 Processo de Negociação](nam/processo-de-negociacao.md)
-    * [2.2 Charlates na Venda](nam/charlates.md)
-    * [2.3 S.O.N.C.A.S.E.](nam/soncase.md)
->>>>>>> 964ed0694161ac3c2f430b466c50f3134b5ca793
+
 
 * [Presidência](presidencia/intro.md)
   * [1 Institucional](presidencia/institucional/intro.md)
@@ -46,16 +39,6 @@
   * [Processo de Parceria](presidencia/processo-parceria.md)  
 
 * NOE
-<<<<<<< HEAD
-	* [1 Introdução NOE](noe/noe-introducao.md)
-	* 2 Ferramentas e Informações
-		* [2.1 Drive NOE](noe/drive.md)
-		* [2.2 Trello NOE](noe/trello.md)
-		* [2.3 Dados CJR](noe/dadoscjr.md)
-		* [2.4 Estrutura Renoe](noe/renoe.md)
-	* 3 Processos ADM-FIN
-		* [3.1 Reembolso NOE](noe/reembolso.md)
-=======
 	* [1 Introdução](noe/noe-introducao.md)
 	* 2 Ferramentas e informações
 		* [2.1 Drive](noe/drive.md)
@@ -67,7 +50,7 @@
 		* [3.2 Demonstrativo Financeiro](noe/demonstrativofin.md)
         * [3.3 Certificado Digital](noe/certificadoDigital.md)
         * [3.4 Nota Fiscal](noe/notaFiscal.md)
->>>>>>> 964ed0694161ac3c2f430b466c50f3134b5ca793
+        * [3.5 Eleições](noe/eleicoes.md)
 
 * NUT
 	* [1 Acompanhamento](nut/acompanhamento.md)
