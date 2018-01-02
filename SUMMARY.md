@@ -51,6 +51,7 @@
         * [3.3 Certificado Digital](noe/certificadoDigital.md)
         * [3.4 Nota Fiscal](noe/notaFiscal.md)
         * [3.5 Eleições](noe/eleicoes.md)
+        * [3.6 Selo EJ](noe/seloEj.md)
 
 * NUT
 	* [1 Acompanhamento](nut/acompanhamento.md)
