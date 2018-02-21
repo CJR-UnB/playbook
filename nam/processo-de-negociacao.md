@@ -20,7 +20,7 @@ cada negociação possui um time com dois negociadores:
 
 *No caso da reunião de apresentação, contudo, o negociador secundário é menos importante, devido à simplicidade do encontro. Essa reunião tem caráter situacional, uma vez que ocorrerá somente quando necessária, caso o cliente chegue direto na sede procurando conversar sobre seu projeto.*
 
-####Entre Reuniões:
+#### Entre Reuniões:
 * É de extrema importância o preparo prévio do negociador para cada encontro com um cliente. Logo, cada reunião neste guia possui >uma sessão “Entre Reuniões”, contendo o básico para se preparar para a próxima etapa do processo.
 * Ver no formulário de pré-negociação como o cliente conheceu a CJR. Se for indicação, pergunte quem indicou!
 * Procurar entender a ideia do cliente.
@@ -35,7 +35,7 @@ cada negociação possui um time com dois negociadores:
 
 --------------------------------------------------------
 
-## Segunda Reunião: **Levantamento**
+## Segunda Reunião: **Levantamento de Requisitos**
 
 Este é o passo mais importante de toda negociação conduzida na CJR. O levantamento de requisitos estabelece o alicerce do projeto e é o que garante o bom desenvolvimento deste. Por isso, é preciso que essa reunião seja executada com muito zelo.
 Pontos importantes a serem abordados durante a reunião incluem, mas não se limitam a:
@@ -49,10 +49,10 @@ A metodologia de desenvolvimento ágil usada na CJR é muito conhecida no mundo.
 Como você deve saber, a CJR não faz layout de aplicação. Dessa forma, se o cliente quer ter um layout específico e não tem designer para fazer as telas, ele tem duas opções: comprar/usar um template da internet ou contratar uma empresa que faça layout. Sistemas de gestão interna de empresas normalmente não precisam ser bonitos, então pode ter só um [Bootstrap](http://getbootstrap.com/) nele.
 ###### Template
   Alguns sites bons que possuem layouts:
-  * Template Villareal
-  * Templated
-  * Templates para Jekyll
-  * Themeforest
+  * [Template Villareal](https://drive.google.com/drive/u/1/folders/0B5AjpT4ByeDRTDRkV1lsVEd2VUU) - CJR possui esse template
+  * [Templated](http://templated.co/)
+  * [Templates para Jekyll](http://jekyllthemes.org/)
+  * [Themeforest](http://themeforest.net/)
 
 ###### Contratar uma empresa
   Como fazemos parte da Concentro e temos uma EJ de Design que é sensacional e nossa amiga, recomende o trabalho da Lamparina ao cliente! Você, como negociador, deve, pelo menos, conhecer e ter o contato do(a) Diretor(a) de Atendimento da Lamparina para chamá-lo(a) para reuniões com clientes.
@@ -67,32 +67,43 @@ Como você deve saber, a CJR não faz layout de aplicação. Dessa forma, se o c
 
 #### Sobre os Tipos de Contrato
 
-Conversar com o cliente sobre os tipos de contratos que a CJR dispõe. Existe a proposta com escopo fechado, na qual definimos que funcionalidades o sistema terá e realizamos a precificação em relação à isso. A outra opção é trabalhar com escopo aberto, no qual disponibilizamos um determinado tempo de trabalho em que o cliente terá os desenvolvedores livres para implementarem qualquer funcionalidade, sendo pagos mensalmente. Explique as vantagens e as desvantagens de cada tipo de contrato para que o cliente possa escolher qual seria mais vantajosa para ele.
+Conversar com o cliente sobre os tipos de contratos que a CJR dispõe. Existe a proposta com **escopo fechado**, na qual definimos que funcionalidades o sistema terá e realizamos a precificação em relação à isso. A outra opção é trabalhar com **escopo aberto**, no qual disponibilizamos um determinado tempo (normalmente 10 horas semanais) de trabalho em que o cliente terá os desenvolvedores livres para implementarem qualquer funcionalidade, sendo pagos mensalmente. Explique as vantagens e as desvantagens de cada tipo de contrato para que o cliente possa escolher qual seria mais vantajosa para ele.
 
 <div class="master-tip">
 	<b class="master-title">DICA DE MESTRE</b> 
-	<p>Escopo aberto funciona melhor com Startups que estão querendo validar o Modelo de Negócios, pois dá liberdade à experimentação e à criatividade. Escopo fechado é bom para organizações consolidadas, que sabem o que querem e o que precisam. O valor da hora no escopo aberto é mais cara que o escopo fechado pois dá mais liberdade para o cliente!!</p>
+	<p>Escopo aberto funciona melhor com startups que estão querendo validar o Modelo de Negócios, pois dá liberdade à experimentação e à criatividade. Escopo fechado é bom para organizações consolidadas, que sabem o que querem e o que precisam. O valor da hora no escopo aberto é mais cara que o escopo fechado pois dá mais liberdade para o cliente!!</p>
 </div>
 
-No Contrato de Escopo Aberto, deve se ter cuidado e deixar claro ao cliente que existem certas funcionalidades cujo a implementação é inviável para nós.
-	Exemplos:
-		* Desenvolvimento de Inteligência Artificial
-		* Realidade Virtual e Realidade Aumentada
-		* Mecanismos de busca complexos (Google)
+No Contrato de Escopo Aberto, deve se ter cuidado e deixar claro ao cliente que existem certas funcionalidades cuja implementação é inviável para nós.
+	
+Exemplos:
+* Desenvolvimento de Inteligência Artificial
+* Realidade Virtual e Realidade Aumentada
+* Mecanismos de busca complexos (Google)
 
 #### Sobre os Requisitos
 Um levantamento bem sucedido se baseia no conhecimento do entrevistador tanto sobre levantamentos de requisitos em geral, quanto sobre as especificidades do projeto em questão. Ambos conhecimentos provêm de experiência na área e quanto mais complexo o projeto, mais difícil o levantamento.
 
 Por esse motivo, é essencial cuidar da gestão desses conhecimentos. A forma mais eficiente disso ser efetuado é incluindo um negociador secundário menos experiente na reunião. Durante esse encontro, o secundário tomará nota de tudo que o cliente disser (na medida do possível). Dessa forma, o líder mostra como conduzir uma reunião de levantamento de requisitos na prática, enquanto o secundário o auxilia nessa tarefa e adquire experiência sobre o assunto.
 
-Quanto ao levantamento propriamente dito, ****
+Quanto ao levantamento propriamente dito, é recomendado conversar com membros antigos e antigos negociadores da CJR para ver se é possível receber um treinamento. Professores da área de Engenharia de Software também podem te ajudar. Alguns nomes: **Rodrigo Bonifácio** e **Gustavo Van Erven**.
 
->	Entre Reuniões:
->* Sanar qualquer dúvida sobre as funcionalidades do projeto com o cliente.
->* Pesquisar possibilidades de implementação de funcionalidades com as quais o time de desenvolvimento pode não ter experiência.
->* Procurar pensar de maneira crítica a respeito dos pedidos do cliente, de forma a prever futuros problemas no funcionamento do projeto.
->* Redigir a proposta (quanto mais nova a tecnologia ou mais vantajoso para os membros o projeto, mais barato tende-se a cobrar).
->* Tente identificar as funcionalidades do sistema e dividi-las em módulos. Descreva que função estes módulos exercem no sistema e defina seu tempo de desenvolvimento de acordo com a complexidade da funcionalidade.
+#### Formas de Pagamento
+Por *default*, temos duas formas de pagamento:
+
++ À vista, com 5% de desconto;
++ Parcelado em duas vezes, uma vez no começo de entrada e a outra na entrega do projeto. Parcelas de mesmo valor.
+
+Tenha em mente que essas formas de pagamento são padrão, mas você pode ser beeeem flexível com o cliente nessa questão. 
+
+A única regra é que o pagamento aconteça enquanto o projeto acontece. Por exemplo, se o projeto dura 4 meses, o projeto pode ser parcelado, no máximo, em 4 vezes. **Importante**: o pagamento da parcela deve ser feito até o dia 5 de cada mês.
+
+#### Entre Reuniões:
+* Sanar qualquer dúvida sobre as funcionalidades do projeto com o cliente.
+* Pesquisar possibilidades de implementação de funcionalidades com as quais o time de desenvolvimento pode não ter experiência.
+* Procurar pensar de maneira crítica a respeito dos pedidos do cliente, de forma a prever futuros problemas no funcionamento do projeto.
+* Redigir a proposta (quanto mais nova a tecnologia ou mais vantajoso para os membros o projeto, mais barato tende-se a cobrar).
+* Tente identificar as funcionalidades do sistema e dividi-las em módulos. Descreva que função estes módulos exercem no sistema e defina seu tempo de desenvolvimento de acordo com a complexidade da funcionalidade.
 
 
 --------------------------------------------------------
@@ -100,9 +111,9 @@ Quanto ao levantamento propriamente dito, ****
 ## Terceira Reunião: **Proposta**
 
 Uma vez pronta e devidamente revisada, o negociador deve convidar o cliente a uma reunião para apresentação da proposta. Além da proposta, o negociador deve criar uma apresentação a partir do modelo (em NAM > Atendimento > Propostas) para apresentar a proposta de forma mais visual e persuasiva.
-Daqui, a negociação pode progredir de duas maneiras: fechamento do contrato, ou re-negociação da proposta.
 O objetivo desse encontro é explicar aquilo que foi escrito no contrato e sanar todas as dúvidas que o freguês pode vir a ter sobre ele, além de discutir uma possível mudança de preço.
 Essa reunião pode (e deve) ser realizada quantas vezes forem necessárias, até que a proposta se acomode aos desejos do cliente, ou seja determinada inviável a execução do projeto como ele deseja.
+Daqui, a negociação pode progredir de duas maneiras: fechamento do contrato, ou re-negociação da proposta.
 
 --------------------------------------------------------
 
@@ -111,7 +122,32 @@ Essa reunião pode (e deve) ser realizada quantas vezes forem necessárias, até
 Por fim, se faz necessária uma reunião para se assinar o contrato. Todas as partes envolvidas precisam estar presentes, incluindo o presidente da CJR, que irá assinar o contrato em nome da empresa.
 
 #### Como fazer um contrato
-Entre na pasta NAM > [Atendimento] > [Contratos] > Modelos, ou clique [aqui](https://drive.google.com/drive/folders/0Bw_PFey7HKZfd3pER25KcFpiQms).
-Imprima duas vias do contrato: uma será da CJR e outra do cliente. Caso seja um projeto de escopo fechado, ambas vias precisam ter a proposta com as funcionalidades anexada (Anexo A). Imprima os contratos nos dois lados da folha.
+Entre na pasta NAM > [Atendimento] > [Contratos] > Modelos, ou clique [aqui](https://drive.google.com/drive/folders/0Bw_PFey7HKZfd3pER25KcFpiQms). Crie uma cópia do modelo do contrato que lhe for de interesse. Há modelos para projetos de escopo fechado, escopo aberto (cliente sendo o gerente da equipe, bom quando o cliente é desenvolvedor/da área de TI) e para contrato em inglês. Preencha essa cópia com as informações do cliente. As informações necessárias do cliente são:
 
-As assinaturas no final do contrato tem que estar na mesma página que as Disposições Finais. Após a assinatura do cliente e do Presidente, digitalize o contrato (utilize o app Adobe Reader, fácil de usar e gratuito) e coloque a versão digitalizada na pasta CJR > NAM > Atendimento > Contratos > ‘ano do contrato’. A versão física do contrato deverá ser colocada na pasta preta 'Negócios', que está dentro do armário, em seu respectivo ano.
+**Empresa**
++ Razão Social/Nome da Pesso Física
++ CNPJ/CPF
++ Inscrição Estadual (não necessário se for contrato PF)
++ Endereço Empresa
++ Cidade Empresa
++ CEP Empresa
+
+**Representante**
++ Nome
++ Nacionalidade
++ Profissão
++ Estado Civil
++ RG
++ CPF
++ Endereço
++ CEP
++ Cidade
++ Estado
+
+
+Preencha o contrato com informações de prazo, preço, se existe manutenção, etc.
+Imprima duas vias do contrato: uma será da CJR e outra do cliente. Caso seja um projeto de escopo fechado, ambas vias precisam ter a proposta com as funcionalidades anexadas (Anexo A). As assinaturas no final do contrato tem que estar na mesma página que as Disposições Finais. Presidente e cliente tem que rubricar todas as páginas do contrato. Imprima os contratos nos dois lados da folha para ser mais sustentável, rs.
+
+Após a assinatura do cliente e do Presidente, digitalize o contrato (utilize o app mobile Adobe Reader, fácil de usar e gratuito) e coloque a versão digitalizada na pasta CJR > NAM > Atendimento > Contratos > ‘ano do contrato’. Além disso, passe a versão digitalizada para o membro responsável por cuidar da auditoria da Brasil Júnior pelo portal BJ. Normalmente é o Presidente. 
+
+A versão física do contrato deverá ser colocada na pasta preta 'Negócios', que está dentro do armário, em seu respectivo ano.

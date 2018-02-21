@@ -2,7 +2,7 @@
 
 ## A Face da CJR
 
-Se alguma vez você já viu algum cartaz, post no facebook, ou discurso em sala de aula sobre a CJR, então você já conheceu o trabalho da NAM. De negociadores a artistas, de escritores a planejadores, isso tudo se encontra aqui.
+Se alguma vez você já viu algum cartaz, post no facebook, ou discurso em sala de aula sobre a CJR, então você já conheceu o trabalho da NAM. De negociadores a artistas, de escritores a planejadores, isso tudo e mais se encontra aqui.
 
 ## Poucos Deveres, Muito Trabalho
 
