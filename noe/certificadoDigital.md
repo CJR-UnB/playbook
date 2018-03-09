@@ -27,7 +27,7 @@ O processo pode mudar com o tempo então é sempre bom conferir antes, mas a pri
 
 5) Após ir ao Correios, você receberá um email com as informações necessárias para instalar o certificado. O ideal é instalar no Internet Explorer (Edge), conforme o tutorial.
 
-## OBS:
+#### OBS:
 - Aconselho levar sempre duas vias de cada documento.
 - Não demore para instalar o certificado ou você precisará refazer todo o processo.
 - Para dúvidas maiores ou remanescentes consulte o contador ele saberá explicar todo o processo.
@@ -43,7 +43,7 @@ Caso a CJR esteja com caixa sobrando e você esteja com preguiça, existe uma se
 
 4) Siga as instruções do email com as informações necessárias para instalar o certificado. O ideal é instalar no Internet Explorer (Edge), conforme o tutorial.
 
-## OBS:
+#### OBS:
 - Em 2018 o preço cobrado por este serviço foi de R$ 350,00
 - Recomendo instalar em uma máquina com Windows e utilizando o Edge
 - Ao instalar será solicitado uma senha, crie uma e guarde-a, pois será necessário utilizá-la para qualquer acesso ao certificado
