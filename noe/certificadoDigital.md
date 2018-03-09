@@ -23,9 +23,9 @@ O processo pode mudar com o tempo então é sempre bom conferir antes, mas a pri
 - Documento do CNPJ (necessário para o selo EJ, basta consultar http://www.receita.fazenda.gov.br)
 - Documento do INSS (necessário para o selo EJ)
 - Comprovante de residência do presidente
-- R$225,00 (em dinheiro)
+- R$250,00 (em dinheiro)
 
-5) Após ir ao Correios, você receberá um email com as informações necessárias para instalar o certificado. O ideal é instalar no Internet Explorer, conforme o tutorial.
+5) Após ir ao Correios, você receberá um email com as informações necessárias para instalar o certificado. O ideal é instalar no Internet Explorer (Edge), conforme o tutorial.
 
 ## OBS:
 - Aconselho levar sempre duas vias de cada documento.
@@ -41,4 +41,32 @@ Caso a CJR esteja com caixa sobrando e você esteja com preguiça, existe uma se
 
 3) Depois da reunião, você receberá um email, algumas horas depois, com as informações do número do seu certificado, chave de acesso, etc. NÃO PERCA ESTES DADOS!
 
-4) Siga as instruções do email com as informações necessárias para instalar o certificado. O ideal é instalar no Internet Explorer, conforme o tutorial.
+4) Siga as instruções do email com as informações necessárias para instalar o certificado. O ideal é instalar no Internet Explorer (Edge), conforme o tutorial.
+
+## OBS:
+- Em 2018 o preço cobrado por este serviço foi de R$ 350,00
+- Recomendo instalar em uma máquina com Windows e utilizando o Edge
+- Ao instalar será solicitado uma senha, crie uma e guarde-a, pois será necessário utilizá-la para qualquer acesso ao certificado
+
+### Habilitando o certificado digital A1 no OMIE
+O OMIE é a aplicação que utilizamos para emitir notas fiscais pela CJR. Segue um passo-a-passo para habilitar o certificado digital A1 no sistema. É importante que o certificado já tenha sido instalado em alguma máquina e que você possua a senha gerada na instalação.
+
+1) Faça o login no sistema.
+
+2) Acesse as configurações do sistema ( é o botãozinho de engrenagem ao lado da foto de perfil).
+
+- OBS: Aproveite para alterar o 'Telefone' e o 'Nome do Contato' da nota fiscal para os do atual líder da NOE clicando em 'Dados da minha empresa'
+
+3) Clique em Certificado Digital (Modelo A1).
+
+4) Clique em "Importar meu Certificado Digital (modelo A1)".
+
+5) Clique em "Carregar arquivo" e procure o Certificado na pasta em que você o salvou.
+
+6) Informe a senha do seu certificado digital e aperte a tecla "TAB". Na sequência será exibida uma mensagem de confirmação. Clique em 'SIM' e confirme.
+
+7) Com as informações do Certificado automaticamente preenchidas, basta clicar em "Concluir".
+
+8) Seja feliz emitindo notas fiscais!
+
+- OBS: link para o tutorial completo: https://ajuda.omie.com.br/vendas-e-nf-e/como-faco-para-comecar-a-emitir-nota-fiscal-de-venda-nf-e#ImportandoOCertificadoDigitalA1
