@@ -14,13 +14,20 @@ O NOE tem como responsabilidade manter o controle do saldo dos membros por meio 
 
 Todos membros da CJR podem visualizar a planilha da Casa da Moeda para checar seu saldo, seus saques e depósitos, mas somente o líder e encarregado do NOE pode editar a planilha.
 
-Um modelo da planilha utilizada pode ser encontrado em **NOE > [Financeiro] > Planilhas e Modelos > [NOE]Casa da Moeda - Modelo (Google Drive da CJR)** e seu link na gestão de conhecimento do NOE no Trello deve ser atualizado a cada ano.
-
 ---
 
 ### Depósito:
 
-Uma equipe envolvida em um projeto tem direito a 30% do valor total do projeto (dividido igualmente entre os envolvidos. Ex: numa equipe 3 membros, 10% do valor total é depositado para cada um, totalizando 30%). É destinado também um total de 5% do valor total do projeto ao negociador que ,**por prospecção ativa**, feche o contrato. No caso de projeto fechado **por prospecção passiva** o valor destinado ao negociador é de 2,5%. O depósito na Casa da Moeda é feito quando o pagamento do projeto for realizado e a CJR emitir a Nota Fiscal.
+Uma equipe envolvida em um projeto tem direito a uma porcentagem do valor do projeto conforme as seguintes regras:
+* Uma equipe constituída de apenas um membro tem direito a 10% do valor total do projeto.
+* Uma equipe constituída de dois membros tem direito a 20% do valor total do projeto (dividido igualmente entre os envolvidos).
+* Uma equipe constituída de três ou mais membros tem direito a 30% do valor total do projeto (dividido igualmente entre os envolvidos). 
+
+É destinado também um percentual ao negociador principal do projeto, conforme as seguintes regras: 
+* 5% do valor total do projeto ao negociador principal que ,**por prospecção ativa**, negocie e feche o contrato. 
+* 2.5% do valor total do projeto ao negociador principal que ,**por prospecção passiva**, negocie e feche o contrato.
+
+O depósito na Casa da Moeda é feito pelo Mestre da Moeda quando o pagamento do projeto for realizado pelo cliente e a CJR emitir a Nota Fiscal.
 
 ---
 
@@ -36,10 +43,20 @@ São válidos reembolsos para:
 
 ---
 
+### Deveres do Mestre da Moeda:
+
+O líder do NOE deve nomear um Mestre da Moeda para sua gestão, que ficará encarregado de atualizar a planilha da Casa da Moeda ao final de todo processo de Política de Benefícios.
+
+Um modelo da planilha utilizada pode ser encontrado em **NOE > [Financeiro] > Planilhas e Modelos > [NOE]Casa da Moeda - Modelo (Google Drive da CJR)** e seu link na gestão de conhecimento do NOE no Trello deve ser atualizado a cada ano.
+
+O preenchimento deve ser feito no campo da planilha referente ao mês do pedido do benefício na aba histórico. O valor inserido deve possuir o sinal negativo na frente para manter a corretude do saldo em todos os outros campos e abas 
+
+---
+
 ### Validade:
 
 A Política de Benefícios só é válida para os membros da CJR. Ex-membros (Termo de Rescisão assinado), podem utilizá-la por um período de tempo limitado após saírem da empresa (2 meses) visando impedir a permanência destes na empresa no ano seguinte com único intuito de usufruir deste serviço.
 
 Um membro que tiver seu contrato rescindido com a empresa **por razões disciplinares** não poderá usufruir da política de benefícios após a assinatura do seu Termo de Rescisão. Além disso, membros com uma conduta inadequada podem ter o dinheiro da sua política de benefícios congelado por tempo indefinido conforme a decisão dos líderes.
 
-Caso a empresa esteja passando por uma situação financeira desfavorável, o líder da NOE pode congelar toda a política de benefícios até que a situação se estabilize.
+Caso a empresa esteja passando por uma situação financeira desfavorável, o líder do NOE pode congelar toda a política de benefícios até que a situação se estabilize.
