@@ -38,6 +38,8 @@ São válidos reembolsos para:
 
 ### Validade:
 
-A Política de Benefícios só é válida para os membros da CJR. Ex-membros (Termo de Rescisão assinado), podem utilizá-la por um período de tempo limitado (3 meses na gestão atual) visando limitar a permanência destes na empresa no ano seguinte apenas para usufruir do serviço.
+A Política de Benefícios só é válida para os membros da CJR. Ex-membros (Termo de Rescisão assinado), podem utilizá-la por um período de tempo limitado após saírem da empresa (2 meses) visando impedir a permanência destes na empresa no ano seguinte com único intuito de usufruir deste serviço.
 
-Um membro que tiver seu contrato rescindido com a empresa **por razões disciplinares** não poderá usufruir da política de benefícios após a assinatura do seu Termo de Rescisão.
+Um membro que tiver seu contrato rescindido com a empresa **por razões disciplinares** não poderá usufruir da política de benefícios após a assinatura do seu Termo de Rescisão. Além disso, membros com uma conduta inadequada podem ter o dinheiro da sua política de benefícios congelado por tempo indefinido conforme a decisão dos líderes.
+
+Caso a empresa esteja passando por uma situação financeira desfavorável, o líder da NOE pode congelar toda a política de benefícios até que a situação se estabilize.
