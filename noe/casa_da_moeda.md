@@ -20,7 +20,7 @@ Um modelo da planilha utilizada pode ser encontrado em **NOE > [Financeiro] > Pl
 
 ### Depósito:
 
-Uma equipe envolvida em um projeto tem direito a 30% do valor total do projeto (dividido igualmente entre os envolvidos. Ex: numa equipe 3 membros, 10% do valor total é depositado para cada um, totalizando 30%). É destinado um total de 5% do valor total do projeto ao negociador que ,**por prospecção ativa**, feche o contrato. No caso de projeto fechado **por prospecção passiva** o valor destinado ao negociador é de 2,5%. O depósito na Casa da Moeda é feito quando o pagamento do projeto for realizado e a CJR emitir a Nota Fiscal.
+Uma equipe envolvida em um projeto tem direito a 30% do valor total do projeto (dividido igualmente entre os envolvidos. Ex: numa equipe 3 membros, 10% do valor total é depositado para cada um, totalizando 30%). É destinado também um total de 5% do valor total do projeto ao negociador que ,**por prospecção ativa**, feche o contrato. No caso de projeto fechado **por prospecção passiva** o valor destinado ao negociador é de 2,5%. O depósito na Casa da Moeda é feito quando o pagamento do projeto for realizado e a CJR emitir a Nota Fiscal.
 
 ---
 
@@ -38,4 +38,6 @@ São válidos reembolsos para:
 
 ### Validade:
 
-A Política de Benefícios só é válida para os membros da CJR. Ex-membros (Termo de Rescisão assinado), podem utilizá-la por um período de tempo limitado (3 meses na gestão atual) visando limitar a permanência destes na empresa no ano seguinte apenas para usufruir do serviço
+A Política de Benefícios só é válida para os membros da CJR. Ex-membros (Termo de Rescisão assinado), podem utilizá-la por um período de tempo limitado (3 meses na gestão atual) visando limitar a permanência destes na empresa no ano seguinte apenas para usufruir do serviço.
+
+Um membro que tiver seu contrato rescindido com a empresa **por razões disciplinares** não poderá usufruir da política de benefícios após a assinatura do seu Termo de Rescisão.
