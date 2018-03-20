@@ -12,7 +12,7 @@ Atualmente, a política é fortemente baseada na Moeda de Capacitação desenvol
 
 O NOE tem como responsabilidade manter o controle do saldo dos membros por meio da planilha localizada na pasta do **NOE > [Financeiro] > [ANO] > Casa da Moeda (Google Drive da CJR)**, isto é, deve realizar os depósitos nas contas dos membros envolvidos em projetos conforme os pagamentos forem realizados.
 
-Todos membros da CJR podem visualizar a planilha da Casa da Moeda para checar seu saldo, seus saques e depósitos, mas somente o líder e encarregado do NOE pode editar a planilha.
+Todos membros da CJR podem visualizar a planilha da Casa da Moeda para checar seu saldo, seus saques e depósitos, mas somente o líder do NOE e o Mestre da Moeda podem editar a planilha.
 
 ---
 
@@ -24,8 +24,8 @@ Uma equipe envolvida em um projeto tem direito a uma porcentagem do valor do pro
 * Uma equipe constituída de três ou mais membros tem direito a 30% do valor total do projeto (dividido igualmente entre os envolvidos). 
 
 É destinado também um percentual ao negociador principal do projeto, conforme as seguintes regras: 
-* 5% do valor total do projeto ao negociador principal que ,**por prospecção ativa**, negocie e feche o contrato. 
-* 2.5% do valor total do projeto ao negociador principal que ,**por prospecção passiva**, negocie e feche o contrato.
+* 5% do valor total do projeto ao negociador principal que, **por prospecção ativa**, negocie e feche o contrato. 
+* 2.5% do valor total do projeto ao negociador principal que, **por prospecção passiva**, negocie e feche o contrato.
 
 O depósito na Casa da Moeda é feito pelo Mestre da Moeda quando o pagamento do projeto for realizado pelo cliente e a CJR emitir a Nota Fiscal.
 
