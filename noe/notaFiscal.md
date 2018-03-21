@@ -17,13 +17,20 @@ OBS4: Caso ainda reste maiores dúvidas o contador deve auxiliá-lo.
 
 - Clique em incluir na side bar.
 - Clique em pesquisar por CNPJ ou em pesquisa autônoma. Digite o CNPJ, boa parte dos dados será preenchida automaticamente, preencha manualmente os que sobrarem.
+
+- OBS: A pesquisa pode ser feita pelo CPF caso o cliente seja pessoa física.
+
 - É necessário que todas as partes do endereço estejam preenchidas.
 - Na aba telefones e email, é preciso informar o email, caso você não tenha o email do cliente use o email da NOE.
 - Na aba inscrições, CNAE e Outros, é necessário colocar a inscrição estadual e municipal do cliente. Se este for do DF, as duas serão a mesma (estadual).
-- Confira os dados novamente (é sério confira mesmo).
-- OBS: Nos contratos é colocado a inscrição estadual e o CNPJ dos clientes basta procurar. Se a inscrição estadual não constar no contrato procure no site do CF/DF.
 
-- OBS2: Quando o cliente for estrangeiro coloque EX na opção de escolha do estado. Nesse caso será necessário o email, o endereço e o telefone.
+- OBS: Nos contratos é colocado a inscrição estadual e o CNPJ dos clientes, basta procurar. Se a inscrição estadual não constar no contrato, procure no site do CF/DF.
+
+- OBS2: Se o cliente for pessoa física, tanto a inscrição estadual quanto a municipal devem ser preenchidas com a palavra: 'ISENTO'.
+
+- OBS3: Quando o cliente for estrangeiro coloque EX na opção de escolha do estado. Nesse caso será necessário o email, o endereço e o telefone.
+
+- Confira os dados novamente (é sério confira mesmo).
 
 4) Com o cliente ja cadastrado vá em "Cadastrar Ordens de serviço e Faturar".
 
