@@ -4,8 +4,6 @@
 
 É responsabilidade do líder da NOE fazer a gestão financeira da empresa. A CJR é classificada como pessoa jurídica e, por isto, esta deve possuir uma conta bancária para pessoas jurídicas. A conta atual da CJR é a do Banco do Brasil. Toda a gestão financeira desta é feita utilizando o gerenciador financeiro do BB. Ressalta-se que, anualmente, é necessário atualizar o contrato com os novos responsáveis pela conta bancária, que são o líder da NOE e o Presidente da CJR.
 
----
-
 ### Contas bancárias para pessoas jurídicas
 
 Contas bancárias para pessoas jurídicas precisam, necessariamente, de duas assinaturas ( confirmações ) para qualquer transação financeira e pagamentos feitos. É importante lembrar que todos os pagamentos feitos devem estar de acordo com gastos previstos no Estatuto Social. Ressalta-se que os pagamentos não podem, em hipótese alguma, serem feitos com intuito de pagamentos salariais aos membros já que a CJR é classificada na lei como uma associação sem fins lucrativos; porém, está de acordo com o estatuto reembolsos como forma de investimento na capacitação dos membros.
@@ -16,13 +14,11 @@ Contas bancárias para pessoas jurídicas precisam, necessariamente, de duas ass
 
 O contrato da CJR com o BB deve ser renovado anualmente devido à mudança de líderes. Como uma conta bancária para pessoas jurídicas necessita de duas assinaturas, a conta bancária deve possuir dois responsáveis para a sua gestão. Ressalta-se que qualquer transação financeira feita será de responsabilidade dos dois e que apenas estes podem, legalmente, mexer na conta bancária. A agência do BB da CJR é a localizada dentro da UNB, ao lado do RU.
 
----
 
 ### Quest para Atualizar o Contrato
 
 A conta do líder atual da NOE e do Presidente encerram ao final do ano. Quando isto acontecer, é necessário ir à agência do BB atualizar o contrato. Siga os seguintes passos:
 
----
 
 - 1st Task: Atualize o Presidente na receita
 
@@ -36,8 +32,6 @@ Existem dois documentos, devidamente autenticados e registrados em cartório, qu
 
 Marque um horário com o Presidente e leve todos os documentos necessários à agência do BB. Entre na fila de atendimento para pessoas jurídicas ( é necessário levar o CNPJ ) e aguarde o atendimento. 
 
----
-
 Dica de mestre: Cada um dos responsáveis criará 2 senhas e receberá uma a mais junto de um usuário. As senhas criadas serão uma de 8 dígitos para confirmar transações e uma de 6 dígitos para realizar saques ( é recomendável já ir com as senhas na sua cabeça ). A senha e usuário recebidos serão para realizar o login no gerenciador financeiro ( será possível mudar esta senha depois de realizado o login pela primeira vez ). 
 
 ---
@@ -47,7 +41,6 @@ Dica de mestre: Cada um dos responsáveis criará 2 senhas e receberá uma a mai
 
 O Gerenciador financeiro do BB permite que você faça a gestão financeira da conta do BB. Aqui estão algumas instruções de como utilizá-lo.
 
----
-
 ### Como habilitar o gerenciador financeiro?
+
 
