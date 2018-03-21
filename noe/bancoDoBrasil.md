@@ -55,3 +55,24 @@ Você deverá utilizar a Chave J e senha para realizar o login. Coloque seus dad
 
 OBS: Seu primeiro acesso com alguma máquina resultará numa telinha em que o banco diz que só liberarão sua máquina depois de 3 horas.
 
+### Acessando Extratos e Saldos
+
+#### Saldo da Conta Corrente
+
+Para acessar o saldo da conta corrente clique em **Conta Corrente** e depois em **Saldo da Conta Corrente** (bem intuitivo mesmo diferente de outras coisas kkkk). Neste você encontra o dinheiro atual disponível na conta.
+
+#### Extrato da Conta Corrente
+
+Para acessar o extrato da conta corrente clique em **Conta Corrente** e depois em **Extrato da Conta Corrente**. Neste você terá acesso a todas os lançamentos ( entradas e saídas ) na conta BB da CJR em determinado mês de determinado ano. Para salvar o extrato em formatos PDF ou OFX apenas clique no símbolo de disquete e escolha o formato do arquivo de extrato desejado.
+
+#### Extrato de Investimentos
+
+A CJR possui dois tipos de investimentos atualmente. O primeiro uma poupança ( possui um rendimento menor ), o segundo CDB/RDB ( possui um rendimento maior ).
+
+- Extrato da Poupança:
+
+Para acessar o extrato da poupança clique em **Investimentos** e depois procure em consultas o link **Poupança**. Nesta você terá acesso a todos os lançamentos e rendimentos da poupança da CJR em determinado mês de determinado ano. Para salvar o extrato em formatos PDF ou OFX apenas clique no símbolo de disquete e escolha o formato do arquivo de extrato desejado.
+
+- Extrato do CDB/RDB
+
+Para acessar o extrato da CDB/RDB clique em **Investimentos** e depois procure em consultas o link **CDB/RDB E BB REAPLIC**. Após isto você verá uma página para selecionar o acesso, deixa os inputs que estão em branco vazios mesmo, apenas escolha o mês correto. Nesta você terá acesso a todos os lançamentos e rendimentos deste investimento em determinado mês de determinado ano. Para salvar o extrato em formatos PDF ou OFX apenas clique no símbolo de disquete e escolha o formato do arquivo de extrato desejado.
