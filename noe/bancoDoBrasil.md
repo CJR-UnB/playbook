@@ -34,9 +34,20 @@ Existem dois documentos, devidamente autenticados e registrados em cartório, qu
 
 - 3rd Task: Vá à agência com o lindo(a) Presidente
 
-Marque um horário com o Presidente e leve todos os documentos necessários à agência do BB. Entre na fila de atendimento para pessoas jurídicas ( é necessário levar o CNPJ ) e aguarde o atendimento.
+Marque um horário com o Presidente e leve todos os documentos necessários à agência do BB. Entre na fila de atendimento para pessoas jurídicas ( é necessário levar o CNPJ ) e aguarde o atendimento. 
+
+---
+
+Dica de mestre: Cada um dos responsáveis criará 2 senhas e receberá uma a mais junto de um usuário. As senhas criadas serão uma de 8 dígitos para confirmar transações e uma de 6 dígitos para realizar saques ( é recomendável já ir com as senhas na sua cabeça ). A senha e usuário recebidos serão para realizar o login no gerenciador financeiro ( será possível mudar esta senha depois de realizado o login pela primeira vez ). 
+
+---
 
 
 ## Gerenciador Financeiro do BB
 
-### Como  
+O Gerenciador financeiro do BB permite que você faça a gestão financeira da conta do BB. Aqui estão algumas instruções de como utilizá-lo.
+
+---
+
+### Como habilitar o gerenciador financeiro?
+
