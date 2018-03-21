@@ -41,6 +41,17 @@ Dica de mestre: Cada um dos responsáveis criará 2 senhas e receberá uma a mai
 
 O Gerenciador financeiro do BB permite que você faça a gestão financeira da conta do BB. Aqui estão algumas instruções de como utilizá-lo.
 
-### Como habilitar o gerenciador financeiro?
+### Como logar no gerenciador financeiro?
 
+Para acessar o gerenciador financeiro é necessário ir ao [site do BB para empresas](http://www.bb.com.br/pbb/pagina-inicial/empresas#/) e clicar em **GERENCIADOR FINANCEIRO**.
+
+- Caso seja seu primeiro acesso:
+
+Será necessário instalar o módulo de segurança do BB em sua máquina. Para isso acesse este [link](https://seg.bb.com.br/home.html) e siga o passo-a-passo. Se for instalar numa máquina windows provavelmente não terá problemas, porém no linux recomendo utilizar o firefox para a instalação (o chrome dá muita treta #relatable).
+
+- Caso já tenha o módulo de segurança instalado:
+
+Você deverá utilizar a Chave J e senha para realizar o login. Coloque seus dados e voalá!
+
+OBS: Seu primeiro acesso com alguma máquina resultará numa telinha em que o banco diz que só liberarão sua máquina depois de 3 horas.
 
