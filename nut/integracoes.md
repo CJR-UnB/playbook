@@ -37,3 +37,18 @@ A Festa Trainee é um evento que ocorre ao fim do Processo Trainee onde os train
 * Música (recomendam-se playlists colaborativas no Spotify).
 
 Para mais detalhes, basta entrar em contato com membros ou ex-membros.
+
+---
+
+### Imersão:
+
+A imersão é um evento para os membros da CJR que tem como objetivo principal criar intimidade entre os membros e trabalhar o fortalecimento do time. Por isso este deve ser realizado uma vez por semestre, quando os novos membros são efetivados, para que possam se integrar a CJR mais facilmente (o famoso pilhar a galera). Deve ser um evento tocante, construtivo e divertido. A pasta [Integrações](https://drive.google.com/drive/u/1/folders/0B5cTnCcq1VXLVk8yLUNWN095TTQ "Integrações") no drive contém os documentos necessários para alugar o local (FAL), dicas para dinâmicas, etc.
+
+* Local: Recomendo a FAL (Fazendo Águas Limpa da UnB), é um lugar em que podemos acampar e além disso é de graça.
+* Guia: É importante enviar um guia para os membros, no drive há modelos.
+* Alimentação: A FAL tem RU então é só entrar em contato com este para comprar as refeições.
+* Dinâmicas: recomendo esse site que é maravilhoso [http://toolbox.hyperisland.com/](http://toolbox.hyperisland.com/)
+* Música: Para os momentos de introspecção recomendo a playlist [https://open.spotify.com/user/22sdo7zb3stbf4vsvikstmkvy/](https://open.spotify.com/user/22sdo7zb3stbf4vsvikstmkvy/)
+* Visitas de ex-membros e/ou pós juniores referência no mercado são altamente recomendadas.
+
+Para mais detalhes, basta entrar em contato com membros, ex-membros ou Concentro.
