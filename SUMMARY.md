@@ -33,10 +33,16 @@
 * [Presidência](presidencia/intro.md)
   * [1 Institucional](presidencia/institucional/intro.md)
   	* [1.1 Stakeholders](presidencia/institucional/stakeholders.md)
-  	* [1.2 Apresentação para os Calouros](presidencia/institucional/apresentacao-calouros.md)
-  * [Organizacional](presidencia/organizacional/intro.md)
+    * [1.2 Reunião Colegiado do CIC](presidencia/institucional/reunião-colegiado.md)
+    * [1.3 Conselheiro da Concentro](presidencia/institucional/conselheiro-concentro.md)
+    * [1.4 INTEJ](presidencia/institucional/intej.md)
+  	* [1.5 Apresentação para os Calouros](presidencia/institucional/apresentacao-calouros.md)
+    * [1.6 Palestra Institucional](presidencia/institucional/palestra-institucional.md)
+    * [1.7 Eventos](presidencia/institucional/eventos.md)
+    * [1.8 Parcerias](presidencia/institucional/parcerias.md)
+
+* [Organizacional](presidencia/organizacional/intro.md)
   * [Histórico Gestões](presidencia/historico-gestoes.md)
-  * [Processo de Parceria](presidencia/processo-parceria.md)  
 
 * NOE
 	* [1 Introdução](noe/noe-introducao.md)
