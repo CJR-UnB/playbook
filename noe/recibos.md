@@ -1,5 +1,6 @@
-#Entrega de Recibos
-##O mecanismo de preenchimento e entrega de recibos segue os seguintes passos:
+# Entrega de Recibos
+
+## O mecanismo de preenchimento e entrega de recibos segue os seguintes passos:
 
 - Cheque se o reembolso ja foi realizado.
 - O recibo só deve ser feito após a concretização do reembolso.
