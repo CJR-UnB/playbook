@@ -23,6 +23,8 @@ Os membros do NUT são os maiores responsáveis pelo Integra, mas os outros memb
 * Convidar ex-membros e membros para palestras motivacionais (com uma boa antecedência e continuamente lembrá-los);
 * Uma casa com espaço para quem for dormir no local.
 
+O Integra 1/2018 foi feito em um formato diferente e ouvimos feedbacks positivos vindos dos membros. Este teve início às 13 horas, a programação durou até às 19h e depois aconteceu uma integração. Grande parte dos membros elogiaram, pois acharam menos cansativo e conseguiram aproveitar melhor a integração, assim conhecendo melhor outros membros. Então fica a dica para os próximos Integras.
+
 ---
 
 ### Festa Trainee:
@@ -42,12 +44,12 @@ Para mais detalhes, basta entrar em contato com membros ou ex-membros.
 
 ### Imersão:
 
-A imersão é um evento para os membros da CJR que tem como objetivo principal criar intimidade entre os membros e trabalhar o fortalecimento do time. Por isso este deve ser realizado uma vez por semestre, quando os novos membros são efetivados, para que possam se integrar a CJR mais facilmente (o famoso pilhar a galera). Deve ser um evento tocante, construtivo e divertido. A pasta [Integrações](https://drive.google.com/drive/u/1/folders/0B5cTnCcq1VXLVk8yLUNWN095TTQ "Integrações") no drive contém os documentos necessários para alugar o local (FAL), dicas para dinâmicas, etc.
+A imersão é um evento para os membros da CJR que tem como objetivo principal criar intimidade entre os membros e trabalhar o fortalecimento do time. Por isso este deve ser realizado uma vez por semestre, quando os novos membros são efetivados, para que possam se integrar a CJR mais facilmente (o famoso pilhar a galera). Deve ser um evento tocante, construtivo e divertido. A pasta [Departamento CIC](https://drive.google.com/drive/u/1/folders/1IrFd-tGuZqVvylsG7HkoEgOnTeKhlOev "Departamento CIC") no drive contém os documentos necessários para alugar o local (FAL) e conseguir as refeições (RU da FAL).
 
 * Local: Recomendo a FAL (Fazendo Águas Limpa da UnB), é um lugar em que podemos acampar e além disso é de graça.
 * Guia: É importante enviar um guia para os membros, no drive há modelos.
 * Alimentação: A FAL tem RU então é só entrar em contato com este para comprar as refeições.
-* Dinâmicas: recomendo esse site que é maravilhoso [http://toolbox.hyperisland.com/](http://toolbox.hyperisland.com/)
+* Dinâmicas: recomendo esse site que é maravilhoso [http://toolbox.hyperisland.com/](http://toolbox.hyperisland.com/) e na pasta [Dinâmicas](https://drive.google.com/drive/u/1/folders/1il9sG9MBVJ14XLPFkAGSat2Bse8uzS9t "Dinâmicas") existem outras dinâmicas recomendadas.
 * Música: Para os momentos de introspecção recomendo a playlist [https://open.spotify.com/user/22sdo7zb3stbf4vsvikstmkvy/](https://open.spotify.com/user/22sdo7zb3stbf4vsvikstmkvy/)
 * Visitas de ex-membros e/ou pós juniores referência no mercado são altamente recomendadas.
 
