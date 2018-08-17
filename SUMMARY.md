@@ -58,6 +58,7 @@
         * [3.4 Nota Fiscal](noe/notaFiscal.md)
         * [3.5 Eleições](noe/eleicoes.md)
         * [3.6 Selo EJ](noe/seloEj.md)
+        * [3.7 Cobrança de Projetos](noe/cobrança-projetos.md)
 
 * NUT
 	* [1 Acompanhamento](nut/acompanhamento.md)
