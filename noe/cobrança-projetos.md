@@ -19,4 +19,11 @@ Esse processo é bem simples, bastando seguir alguns passos.
 *5) Se quiser uma descrição mais detalhada, você pode subir na página do Summary report e na aba Client selecionar o cliente que está envolvido no projeto.*
 6) Desta maneira, é possível realizar um export do documento que detalha essa precificação.
 
+**PS: faça isso todo mês no dia 1, colocando o relatório no drive na parte financeira da NOE. Em seguida, atualize o card de Pagamentos a Receber no Trello**
+
 ---
+
+### Mas quem vai mandar o report dos preços?
+
+Será responsabilidade da NOE coletar os relatórios de pagamento e mandar o e-mail de cobrança para o cliente. Os dados para contato do cliente devem estar no trello da NOE.
+
