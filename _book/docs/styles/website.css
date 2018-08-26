@@ -1,0 +1,12 @@
+.master-tip {
+	background-color: #f0f0f0;
+	border-radius: 0.2em;
+	padding: 1.5em;
+	margin: 1em 0;
+}
+
+.master-title {
+	background-color: #607D8B; 
+	color: white;
+	padding: 0 1em;
+}

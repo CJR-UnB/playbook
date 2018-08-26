@@ -1,5 +1,19 @@
 ## História das Gestões
 
+#### GESTÃO 2018
+**Presidente:** Amanda Oliveira Alves
+
+**Líder de Talentos:** Diogo Queiroz dos Santos
+
+**Líder de Organização Empresarial:** Lucas da Silva Moutinho
+
+**Líder de Desenvolvimento e Pesquisa:** Vitor Ribeiro Custodio
+
+**Líder de Atendimento e Marketing:** Gabriel Correia de Vasconcelos
+<center><img src="../img/gestao18.jpg" style="width: 600px;"></center>
+
+---
+
 #### GESTÃO 2017
 **Presidente:** Wladimir Ganzelevitch Mesquita Gramacho
 

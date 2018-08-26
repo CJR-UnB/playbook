@@ -5,8 +5,8 @@ Sempre que você for fazer uma apresentação, pense na ideia principal que voc�
 
 Seja educado, tranquilo e divertido, para poder passar uma imagem de segurança, profissionalismo e jovialidade para os estudantes. Vista-se bem, calça e camiseta de preferência, mas evite ser muito formal (ternos, gravatas, sapatos sociais). Se puder, use a camisa da CJR!
 
-### Apresentações Antigas
+#### Apresentações Antigas
 
-[Apresentação 1/2017](https://drive.google.com/open?id=1MYZQc5a91pUMCb1emE2co_39w3FR7QleU0pg_f7s2bA)
+* [Apresentação 1/2017](https://drive.google.com/open?id=1MYZQc5a91pUMCb1emE2co_39w3FR7QleU0pg_f7s2bA)
 
-[Apresentação 2/2017](https://drive.google.com/open?id=1ztUD3WtWCwj0BM8Jx5Di__M7m_09boFhoocrdCAo4a8)
+* [Apresentação 2/2017](https://drive.google.com/open?id=1ztUD3WtWCwj0BM8Jx5Di__M7m_09boFhoocrdCAo4a8)
