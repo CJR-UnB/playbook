@@ -23,7 +23,7 @@ O certificado dever ter:
 
 - Nome do professor
 - Tema abordado no workshop
-- Logo da cjr
+- Logo da CJR
 - Assinatura do Presidente e Líder de Talentos
 
 Já existem alguns modelos de certificados na pasta do NUT. 
