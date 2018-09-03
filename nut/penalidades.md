@@ -17,9 +17,9 @@ E também está sendo desenvolvido um sistema de chamadas para ser usado na REGE
 
 ---
 
-### Regras
+# Regras
 
-# Membros
+### Membros
 
 **REGER e Núcleo**
 
@@ -48,7 +48,7 @@ Nesse tópico é introduzido o Strike. O Strike é mais como aviso para o membro
 - Com duas penalidades e um strike sua política de benefícios é zerada.
 
 
-# Trainee
+### Trainee
 
 **REGER e Processo Trainee**
 
