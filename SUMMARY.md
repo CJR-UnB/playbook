@@ -54,10 +54,11 @@
 	* 3 Processos Administrativo/Financeiro
 		* [3.1 Reembolso](noe/reembolso.md)
 		* [3.2 Demonstrativo Financeiro](noe/demonstrativofin.md)
-        * [3.3 Certificado Digital](noe/certificadoDigital.md)
-        * [3.4 Nota Fiscal](noe/notaFiscal.md)
-        * [3.5 Eleições](noe/eleicoes.md)
-        * [3.6 Selo EJ](noe/seloEj.md)
+    * [3.3 Certificado Digital](noe/certificadoDigital.md)
+    * [3.4 Nota Fiscal](noe/notaFiscal.md)
+    * [3.5 Eleições](noe/eleicoes.md)
+    * [3.6 Selo EJ](noe/seloEj.md)
+    * [3.7 Cobrança de Projetos](noe/cobrança-projetos.md)
 
 * NUT
 	* [1 Acompanhamento](nut/acompanhamento.md)
