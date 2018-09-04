@@ -1,6 +1,5 @@
 # Processo de Negociação
 
-
 --------------------------------------------------------
 
 ## Primeira Reunião: conhecendo o cliente
@@ -122,7 +121,7 @@ Daqui, a negociação pode progredir de duas maneiras: fechamento do contrato, o
 Por fim, se faz necessária uma reunião para se assinar o contrato. Todas as partes envolvidas precisam estar presentes, incluindo o presidente da CJR, que irá assinar o contrato em nome da empresa.
 
 #### Como fazer um contrato
-Entre na pasta NAM > [Atendimento] > [Contratos] > Modelos, ou clique [aqui](https://drive.google.com/drive/folders/0Bw_PFey7HKZfd3pER25KcFpiQms). Crie uma cópia do modelo do contrato que lhe for de interesse. Há modelos para projetos de escopo fechado, escopo aberto (cliente sendo o gerente da equipe, bom quando o cliente é desenvolvedor/da área de TI) e para contrato em inglês. Preencha essa cópia com as informações do cliente. As informações necessárias do cliente são:
+Entre na pasta NAM > [Atendimento] > [Contratos] > Modelos, ou clique [aqui](https://drive.google.com/drive/folders/0Bw_PFey7HKZfd3pER25KcFpiQms). Crie uma cópia do modelo do contrato que lhe for de interesse. Há modelos para projetos de escopo fechado, escopo aberto (cliente sendo o gerente da equipe, bom quando o cliente é desenvolvedor/da área de TI) e para contrato em inglês. Preencha essa cópia com as informações do cliente. As informações necessárias do cliente são as listadas abaixo e podem 
 
 **Empresa**
 + Razão Social/Nome da Pesso Física
@@ -151,3 +150,39 @@ Imprima duas vias do contrato: uma será da CJR e outra do cliente. Caso seja um
 Após a assinatura do cliente e do Presidente, digitalize o contrato (utilize o app mobile Adobe Reader, fácil de usar e gratuito) e coloque a versão digitalizada na pasta CJR > NAM > Atendimento > Contratos > ‘ano do contrato’. Além disso, passe a versão digitalizada para o membro responsável por cuidar da auditoria da Brasil Júnior pelo portal BJ. Normalmente é o Presidente. 
 
 A versão física do contrato deverá ser colocada na pasta preta 'Negócios', que está dentro do armário, em seu respectivo ano.
+
+## Checklist do negociador
+
+Lista de deveres para guiar o negociador em cada processo de negociação
+
+#### Foi alocado para uma negociação? Então segue esses passos mermão
+
+- [ ] Entre em contato com o cliente por email. Se ele não responder em 48 horas, mande mensagem/ligue no celular
+- [ ] No Form, entre na planilha Negociadores e escolha sua dupla (baseado na ordem de prioridade) para as reuniões
+- [ ] No Form, entre na planilha Respostas ao Formulário 1 e bote seu nominho e o nominho do brother nas colunas de negociador primário e secundário
+- [ ] No Form, ainda na planilha Respostas ao Formulário 1, bote o status da negociação como 'Em andamento'
+- [ ] Cheque a agenda do brother (no Google Calendar) e marque uma reunião com o cliente. Dê preferencia à sede da CJR e a horários comerciais
+- [ ] Na 1ª reunião, manda ver nos charlates e lembre o negociador secundário de registrar tudo no SGA (isso vai ajudar na proposta). Lembra também do Toggl
+
+#### Reunião deu bão? Hora de fazer propostão
+
+- [ ] Entendeu tudo sobre o projeto do cliente? Marque o quantas reuniões forem necessárias até que isso aconteça
+- [ ] Use o modelo do Drive para formular a proposta e a ata do SGA para descrever as funcionalidades do projeto (se precisar, leia as propostas antigas)
+- [ ] Para precificar, converse com seu negociador secundário e líderes da NAM e NDP (se for muito louco, corre pros ex-membros)
+- [ ] Exporta pra pdf e bota no drive do respectivo mês. Manda pro cliente mas se achar necessário, marque uma reunião para apresenta-la
+- [ ] No Form, entre na planilha Propostas e bote o preço da proposta do projeto lá
+- [ ] No Form, entre na planilha Respostas ao Formulário 1 e bote o status da negociação como 'Proposta enviada'
+
+#### Eita **zão, vai dar contratão?
+
+- [ ] Tudo foi discutido com o cliente? Preço, tempo de duração, layout... Marque o quantas reuniões forem necessárias até que isso aconteça
+- [ ] No Form, entre na planilha Propostas e bote o preço do contrato do projeto lá
+- [ ] Use o modelo do Drive para formular o contrato e as funcionalidades da proposta para botar no anexo. (se precisar, leia os contratos antigos)
+- [ ] Manda pro líder da NAM e pra presidente revisar
+- [ ] Exporta pra pdf e bota no Drive do respectivo ano.
+- [ ] Envia o contrato para o cliente
+- [ ] Checa a agenda da presidente (ela só precisa assinar) e do negociador secundário e marca uma reunião com o cliente (avisa pro líder da NAM também :p)
+- [ ] Imprime duas vias do contrato, em preto e branco. Bota a via do cliente na pasta L da CJR e a via da CJR (depois de assinada) na pasta Negócios que fica no armário
+- [ ] Fecha o contrato, bb
+- [ ] Escaneie todas a páginas do contrato e exporte para um pdf
+- [ ] Mande o contrato escaneado para [Vasconcelos, Perotto ou Amanda] e peça para eles auditarem o contrato no portal Brasil Júnior
