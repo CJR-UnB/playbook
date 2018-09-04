@@ -1,17 +1,13 @@
 # O Núcleo de Atendimento e Marketing
 
-## A Face da CJR
+## A Vitrine da CJR
 
-Se alguma vez você já viu algum cartaz, post no facebook, ou discurso em sala de aula sobre a CJR, então você já conheceu o trabalho da NAM. De negociadores a artistas, de escritores a planejadores, isso tudo e mais se encontra aqui.
+Se alguma vez você já viu um post da CJR no Facebook ou Instagram, viu um anúncio no Google Ads, viu um cartaz divulgacional da empresa na UnB, então você já entrou em contato com o trabalho a NAM. De negociadores a artistas, de planejadores a escritores, dentro da NAM temos pessoas comprometidas com a visão que o cliente e alunos dos cursos de Computação da UnB terão da empresa.
 
-## Poucos Deveres, Muito Trabalho
+## Poucos Desenvolvedores, Muito Trabalho
 
-O dia-a-dia da NAM costuma se resumir a cuidar da página da CJR no facebook e gerenciar o time de negociadores. Pode parecer pouco, mas a página no facebook requer atenção diária, e sempre têm mais negociações chegando, seja por e-mail ou pelo próprio facebook. Por isso, a NAM é um dos núcleos com maior demanda de membros da CJR.
+O trabalho da NAM é principalmente cuidar das redes sociais da empresa, principalmente o Facebook e o Instagram, as quais são o nosso principal meio de interação com os clientes e com os alunos da UnB, e gerenciar o time de negociadores. Podem achar que trabalhamos pouco ou que nossas tarefas dentro da empresa não são tão importantes, porém a página no Facebook e a conta no Instagram requerem atenção diária, e sempre estão chegando mais negociações, seja por e-mail ou pelo próprio Facebook. Por isso, a NAM é um dos núcleos com maior demanda de membros dentro da CJR.
 
 ## Habilidades Fora do Escopo
 
-Mexer no facebook e mandar e-mails pode não parecer muito difícil, mas isso requer diversas habilidades que a maioria dos estudantes de CiC não possuem (a principal sendo comunicar-se com outros seres humanos).
-
-## Keep Calm
-
-Relaxa, ser do núcleo mais sensacional não é fácil mesmo, mas o Playbook é seu amigo e ta aqui pra te ajudar com isso tudo (fora os seus possíveis bloqueios sociais, melhor falar com algué-- deixa pra lá).
+Cuidar de redes sociais, enviar propostas para clientes dos nossos serviços e fazer negociações aprimoram as soft skills (habilidades interpessoais) dos membros da NAM, as quais não são comuns ao aluno/aluna padrão de algum curso de Computação. Trabalhar com gestão de pessoas e relações interpessoais proporcionam uma melhor adaptação do membro ao sair pro mercado de trabalho: poder negociar aumentos, barganhar promoções, etc.
