@@ -1,30 +1,28 @@
-# Penalidades
+## Processo de Workshops
 
-O processo de Certificado de Workshop é controlado pelo NUT. O intuito é que isso motive o membro a aprender e a passar esse conhecimento para outros membros da empresa.
+O processo de certificação de Workshop é controlado pelo NUT. O intuito é que tal reconhecimento motive o membro a aprender e a repassar esse conhecimento para outros membros da empresa.
 
-A NDP já possui um processo de controle de workshops. Onde avisa para a empresa o assunto de determinado workshop, o dia e horário. 
+A NDP já possui um processo de controle de Workshops, no qual avisa para a empresa o assunto do Workshop a ser ministrado e seu dia e horário.
 
-Ao final do workshop o professor para um formulário elaborado pelo NUT para os alunos para termos uma noção da metodologia de ensino e o professor receber um feedback e com isso o NUT vai preparar o certificado para o professor com o tema do Workshop e a carga horária.
+Ao final do Workshop, o professor encaminha aos participantes um formulário elaborado pelo NUT com o objetivo de consultar a satisfação do participante e o professor receber um feedback sobre sua metodologia. Após isso, o NUT deve preparar os certificados com o tema do Workshop concluído e a carga horária.
 
-## Formulário de avaliação
+## Formulário de Avaliação
 
-Já existe um formulário para os alunos avaliarem o professor (localizado na pasta do NUT), mas mesmo este pode ser editado.
+Já existe um formulário para os alunos avaliarem o professor. Tal modelo se encontra na pasta do NUT e pode ser editado caso necessário.
 
-Algumas perguntas importantes que devem ter nesse formulário:
+Algumas perguntas importantes que devem estar presentes nesse formulário:
 
-- Você gostou da metodologia de ensino? (sim/não)
-- A explicação foi de fácil entendimento? (sim/não)
-- O que pode ser melhorado?
+- "Você gostou da metodologia de ensino? (sim/não)";
+- "A explicação foi de fácil entendimento? (sim/não)";
+- "O que pode ser melhorado?".
 
 ## Certificado
 
-Após o professor ter dado o workshops e os alunos tiverem respondido o formulário, então os membros do NUT deve elaborar o certificado.
-O certificado dever ter:
+Após o professor ter ministrado o Workshop e os participantes terem respondido o formulário, os membros do NUT deve elaborar o certificado.
 
-- Nome do professor
-- Tema abordado no workshop
-- Logo da CJR
-- Assinatura do Presidente e Líder de Talentos
+Já existem alguns modelos de certificados na pasta do NUT, que podem ser editados caso necessário, mas seguindo os seguintes aspectos necessários:
 
-Já existem alguns modelos de certificados na pasta do NUT. 
-
+- Nome do professor;
+- tema abordado no Workshop;
+- logo da CJR;
+- assinatura do Presidente e Líder de Talentos.
