@@ -1,4 +1,23 @@
-# Google AdWords/AdGrants
+# Google Ads/AdGrants
+
+---
+
+## Atualização 01/09/2018
+Em 10 de Julho de 2018, Sridhar Ramaswamy e sua equipe anunciaram, no evento anual Google
+Marketing Live, diversas novidades a repeito das tecnologias de marketing da empresa Google.
+Dentre essas novidades estava a mudança do nome da marca Google AdWords para Google Ads.
+
+Claramente, a mudança não foi só no nome da marca.
+
+Para anúncios no Youtube foram desenvolvidas as novas estratégias de oferta "True View for Reach",
+"True View for Action" e "Maximize Lift Bidding". Dentre as novidades para anúncios em texto foram
+anunciadas a estratégia "Responsive search ads", a funcionalidade "Landing Page speed score", "cross device 
+reporting and remarketing", a opção "Smart Campaigns", "Automatic feeds", "Campanhas de compra inteligentes"
+"Campanhas Locais" e "Hotel Campaigns".
+
+Para mais informações:
+https://www.blog.google/technology/ads/new-advertising-brands/
+https://www.youtube.com/watch?v=MmfaZV96x7A
 
 ---
 
