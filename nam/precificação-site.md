@@ -2,7 +2,14 @@
 
 É bem normal chegar projetos de site na CJR. Essa tabela de precificação é um instrumento de auxílio para a precificação, mas não a tome como verdade absoluta. Preços de projeto mudam de acordo com a realidade da EJ e com o mercado. Com experiência em negociações, você poderá melhorar suas precificações para conseguir fechar melhores projetos!
 
-Os preços devem ser somados para obter a precificação. Complemente o valor obtido com dificuldade de implementação do layout, não colocado na tabela por seu caráter subjetivo. A partir das funcionalidades, converse com o Líder da NDP para decidir o prazo do projeto.
+Os preços devem ser somados para obter a precificação. Complemente o valor obtido com dificuldade de implementação do layout, não colocado na tabela por seu caráter subjetivo. A partir das funcionalidades, converse com o Líder da NDP para decidir o prazo do projeto. De maneira geral deve ser utilizada a seguinte fórmula:
+
+
+### PreçoProjeto = PreçoTabela + Horas * Adicional
+
+####O adicional será baseado na dificuldade do projeto e outros fatores que podem interferir (É extremamente importante conversar com algum lider para definir esse valor)
+
+
 
 | Funcionalidade 								| Descrição																													| Investimento			|  
 | ---------------------------------------------	| -------------------------------------------------------------------------------------------------------------------------	| ---------------------	|  
