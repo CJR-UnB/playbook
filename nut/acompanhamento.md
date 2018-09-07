@@ -50,4 +50,4 @@ No segundo semestre de 2018, o acompanhamento novamento sofreu uma reformulaçã
 
 ---
 
-Esse modelo está sendo implementado em fase de testes, podendo haver alterações conforme haja necessidade.
+Esse modelo está sendo implementado em fase de testes, podendo haver alterações conforme haja necessidade
