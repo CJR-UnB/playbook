@@ -14,4 +14,4 @@ Cuidar de redes sociais, enviar propostas para clientes dos nossos serviços e f
 
 ## Keep Calm
 
-Relaxa, ser do núcleo mais sensacional não é fácil mesmo, mas o Playbook é seu amigo e ta aqui pra te ajudar com isso tudo (fora os seus possíveis bloqueios sociais, melhor falar com algué-- deixa pra lá).
+Relaxa, ser do núcleo mais sensacional não é fácil mesmo, mas o Playbook é seu amigo e ta aqui pra te ajudar com isso tudo! A ideia é manter ele sempre atualizado, então se ver alguma coisa estranha ou faltando chama no slack bb.
