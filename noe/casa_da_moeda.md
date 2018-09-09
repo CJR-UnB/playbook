@@ -43,6 +43,34 @@ São válidos reembolsos para:
 
 ---
 
+### Política de Benefícios dos Negociadores
+
+#### Faixas de Pagamento
+
+- 0 ~ 4000 = 1% convertido em pontos + caneca negociador
+- 4001 ~ 9000 = 2.5% convertido em pontos + camiseta negociador
+- 9001 ~ infinito e além = 5% + troféu
+
+#### Metas equipe
+- R$ 20.000 em setembro e outubro = investiremos 5% do valor vendido nesse prazo em um rolê da empresa. Esses 5% vão ser investidos nos negociadores que fecharam pelo menos 1 projeto. EX: rodízio de sushi pra empresa, quem for negociador e tiver fechado 1 projeto vai com tudo pago.    
+
+- R$ 50.000 em novembro e dezembro = investiremos 5% do valor vendido nesse prazo. Esses 5% vão ser investidos nos negociadores que fecharam pelo menos 1 projeto. EX: rodízio de sushi pra empresa, quem for negociador e tiver fechado 1 projeto vai com tudo pago.
+
+---
+### Política de Benefícios dos Desenvolvedores
+   
+Avaliações de 2 em 2 meses ou na assinatura do termo de aceite com objetivo de avaliar NPS.
+   
+- Nota 8: R$ 50,00 para cada dev no projeto.
+- Nota 9: R$ 100,00 para cada dev no projeto.
+- Nota 10: R$ 150,00 para cada dev no projeto.OBS: os devs só vão ganhar SE TIVEREM CUMPRIDO as horas do clockify.
+
+---
+### Política de Benefícios da Empresa (geral)
+Avaliação semestral com metas a serem cumpridas da empresa geral (definir ainda as metas a serem cumpridas).
+
+---
+
 ### Deveres do Mestre da Moeda:
 
 O líder do NOE deve nomear um Mestre da Moeda para sua gestão, que ficará encarregado de atualizar a planilha da Casa da Moeda ao final de todo processo de Política de Benefícios.
