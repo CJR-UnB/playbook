@@ -4,12 +4,11 @@
 
 Os preços devem ser somados para obter a precificação. Complemente o valor obtido com dificuldade de implementação do layout, não colocado na tabela por seu caráter subjetivo. A partir das funcionalidades, converse com o Líder da NDP para decidir o prazo do projeto. De maneira geral deve ser utilizada a seguinte fórmula:
 
+**PreçoProjeto = PreçoTabela + Horas * Adicional**
 
-### PreçoProjeto = PreçoTabela + Horas * Adicional
+_O adicional será baseado na dificuldade do projeto, disponibilidade de equipe, tecnologia utilizada (É extremamente importante conversar com algum lider para definir esse valor)_
 
-####O adicional será baseado na dificuldade do projeto e outros fatores que podem interferir (É extremamente importante conversar com algum lider para definir esse valor)
-
-
+### Tabela de precificação
 
 | Funcionalidade 								| Descrição																													| Investimento			|  
 | ---------------------------------------------	| -------------------------------------------------------------------------------------------------------------------------	| ---------------------	|  
