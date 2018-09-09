@@ -142,12 +142,3 @@ O Trends é a ferramenta do Google que permite acompanhar a evolução do númer
 O CTR, como já explicado acima, é a eficiência que o seu anúncio está tendo em questões de cliques, ou seja, qual a taxa de pessoas que clicam no seu anúncio após vizualizá-lo. A taxa do CTR geralmente é baixa, portanto um valor entre 4~5 % são considerados bons.
 
 A Taxa de Conversão aqui é a mais importante, porque ela leva em conta a quantidade de pessoas que clicaram no anúncio e adquiriram o serviço fornecido. A conversão para ser eficiente deve estar em 50%, ou seja, 50 a cada 100 pessoas que clicaram no anúncio devem fechar projeto conosco. Uma conversão baixa reflete uma estratégia ruim nos anúncios. (ATUALMENTE NÃO TEMOS COMO MENSURAR ESSA TAXA DE CONVERSÃO).
-
-
-### Dados
-
-[...]
-
-## 1 Campanha
-
-[...]
