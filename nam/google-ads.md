@@ -40,15 +40,15 @@ Com o auxílio do [guia](https://medium.com/@concentrodf/fazendo-sua-ej-decolar-
 ## Atualização 11/09/2018
 No começo de 2018, entraram em vigor as seguintes mudanças no Adgrants.
 
-* O limite do CPC (U$2,00) passa a não valer para empresas sem fins lucrativos que usam da estratégia "maximize conversions bidding" em suas campanhas.
+* O limite do CPC (U$2,00) passa a não valer para empresas sem fins lucrativos que usam da estratégia [maximize conversions bidding](https://support.google.com/google-ads/answer/7381968?hl=pt-BR) em suas campanhas.
 * Se a taxa de cliques (CTR) não exceder 5% em 2 meses consecutivos, a empresa benefiada tem a conta do Ads temporariamente desativada!
 * Palavras chave com scores de qualidade menores do que 3/10 não são mais permitidas
-* palavras-chave com uma única palavra (exceto palavras da sua marca, condições médicas reconhecidas, acrônimos e um pequeno número de palavras-chave de uma lista de exceções publicada aqui: https://support.google.com/grants/answer/7587473) não são mais permitidas.
+* palavras-chave com uma única palavra (exceto palavras da sua marca, condições médicas reconhecidas, acrônimos e um pequeno número de palavras-chave de uma lista de exceções publicada [aqui](https://support.google.com/grants/answer/7587473)) não são mais permitidas.
 * palavras-chave excessivamente genéricas, como “melhores vídeos”, "apps interessantes", “e-books”, “notícias de hoje”, “ioga fácil”, “download de jogos”, "coisas para fazer", “alerta de vaga” ou nomes de outras organizações, lugares, eventos históricos ou pessoas, não são mais permitidas.
 * Os domínios ligados as campanhas devem ter alta qualidade, assim como uma clara descrição a respeito da missão da empresa beneficiada.
-* As contas do Ad Grants precisam ter segmentação por área geográfica condizente com a missão da empresa para exibir anúncios em locais onde os usuários encontrarão informações e serviços úteis da sua organização sem fins lucrativos. (Não deve ser um problema para a CJR)
+* As contas do Ad Grants precisam ter [segmentação por área geográfica](https://support.google.com/google-ads/answer/1722043) condizente com a missão da empresa para exibir anúncios em locais onde os usuários encontrarão informações e serviços úteis da sua organização sem fins lucrativos. (Não deve ser um problema para a CJR)
 * pelo menos dois grupos de anúncios ativos por campanha, cada um contendo um conjunto de palavras-chave relacionadas e dois anúncios de texto ativos;
-* pelo menos duas extensões de anúncio de sitelinks.
+* pelo menos duas extensões de anúncio de [sitelinks](https://support.google.com/google-ads/answer/2375416).
 
 Para mais informações:
 - https://www.pt.advertisercommunity.com/t5/Google-Ad-Grants/Atualizacao-das-politicas-do-Ad-Grants/m-p/242870/highlight/true#M267
