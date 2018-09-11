@@ -2,7 +2,7 @@
 
 ---
 
-## Atualização 01/09/2018
+### Atualização 01/09/2018
 Em 10 de Julho de 2018, Sridhar Ramaswamy e sua equipe anunciaram, no evento anual Google
 Marketing Live, diversas novidades a repeito das tecnologias de marketing da empresa Google.
 Dentre essas novidades estava a mudança do nome da marca Google AdWords para Google Ads.
@@ -37,7 +37,7 @@ Com o auxílio do [guia](https://medium.com/@concentrodf/fazendo-sua-ej-decolar-
 * Apenas [anúncios de texto](#anuncio) que aparecem como resultado de pesquisas no Google, em posições abaixo dos anúncios efetivamente pagos.
 ---
 
-## Atualização 11/09/2018
+### Atualização 11/09/2018
 No começo de 2018, entraram em vigor as seguintes mudanças no Adgrants.
 
 * O limite do CPC (U$2,00) passa a não valer para empresas sem fins lucrativos que usam da estratégia [maximize conversions bidding](https://support.google.com/google-ads/answer/7381968?hl=pt-BR) em suas campanhas.
