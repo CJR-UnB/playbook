@@ -165,3 +165,21 @@ O Trends é a ferramenta do Google que permite acompanhar a evolução do númer
 O CTR, como já explicado acima, é a eficiência que o seu anúncio está tendo em questões de cliques, ou seja, qual a taxa de pessoas que clicam no seu anúncio após vizualizá-lo. A taxa do CTR geralmente é baixa, portanto um valor entre 4~5 % são considerados bons.
 
 A Taxa de Conversão aqui é a mais importante, porque ela leva em conta a quantidade de pessoas que clicaram no anúncio e adquiriram o serviço fornecido. A conversão para ser eficiente deve estar em 50%, ou seja, 50 a cada 100 pessoas que clicaram no anúncio devem fechar projeto conosco. Uma conversão baixa reflete uma estratégia ruim nos anúncios. (ATUALMENTE NÃO TEMOS COMO MENSURAR ESSA TAXA DE CONVERSÃO).
+
+
+## Alguns números (11/09/2018)
+
+O Google Ads tem trazido clientes e notoriedade para a empresa desde sua implementação. Estima-se que a quantidade de clientes que foram atendidos graças aos anúncios, até agora, é próxima de 8, e de acordo com os dados da própria plataforma, de 15 de Agosto de 2017 até hoje foram registrados:
+
+- 192 cliques;
+- 4,72 mil impressões;
+- um gasto de $53,49;
+
+tal que apenas no intervalo de 01 de Janeiro de 2018 até hoje tivemos:
+- 145 cliques;
+- 2,65 mil impressões;
+- um gasto de $26,96;
+ 
+ Indicando que a CJR tem melhorando seu CTR com o tempo!
+ 
+É válido acrescentar que as palavras chave de mais sucesso foram CJR(109 cliques), site(21 cliques) e UnB(12 cliques), o que aparentemente, indica que grupos de anúncios que giram em torno dessas palavras têm grande potencial.
