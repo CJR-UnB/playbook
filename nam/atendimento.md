@@ -1,5 +1,0 @@
-## Atendimento
-Atendimento é a área da NAM que cuida do relacionamento com os clientes e é responsável por fechar os projetos da empresa.
-
-### [Drive do Atendimento](https://drive.google.com/drive/u/1/folders/0B2PoJFgRxIz5UTVxcXJZcG9ScmM)
-As pastas mais importantes do Drive do Atendimento são [Contratos], [Portfólio], [Propostas]. As pastas Deprecated e [Negócios2] não estão sendo utilizadas (2017), mas têm informações interessantes. Além disso, há a pasta Aprendizado, com conteúdos de conhecimento acerca de negociações. Por fim, temos os formulários de [Informações do Cliente](https://docs.google.com/forms/d/e/1FAIpQLSfml8cy0ABeknKyhkqc70PxoXSihTLyOsNJI9OicRw26ftJyA/viewform) (utilizado para pegar as informações básicas do cliente) e de [Satisfação do Cliente](https://docs.google.com/forms/d/e/1FAIpQLSeCedu4uoutOMNDTHJjOUfqgQsZ50XA57bQOtYJ83rM4r7muA/viewform?usp=sf_link) (satisfação com o serviço prestado, após assinatura de termo de aceite do projeto).

@@ -1,5 +1,0 @@
-## INTEJ
-
-O INTEJ (Intercâmbio entre Empresas Juniores) é quando uma empresa júnior envia um de seus membros e recebe o membro de outra empresa. O modelo tracidional é que cada um passe 1 semana na outra EJ, porém não existem regras, o tempo pode ser aumentado ou diminído de acordo com a disponibilidade e vontade de ambas as partes. O objetivo é que o intercambista participe do maior número de atividades que conseguir, faça benchs e leve conhecimento para que seja aplicado na sua EJ. 
-
-Essa inciativa nasceu para incentivar os empresários juniores a usarem melhor a rede do MEJ, conhecerem membros de outras empresas, ajudarem e serem ajudados. Como o networking é um dos objetivos que o MEJ prega, e o colaborativismo é um dos valores da CJR, a iniciativa faz bastante sentido e eu acredito que seja bem importante. Não há necessidade de burocracia, basta entrar em contato com a empresa de interesse e combinar o INTEJ.

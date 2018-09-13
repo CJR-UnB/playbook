@@ -1,3 +1,7 @@
-# Introduction
+# Bem-vindo ao Playbook da CJR
 
-https://cjr.gitbook.io/playbook/
+  
+[GitHub](%20https://github.com/unbcjr/playbook)
+
+[Gitbook](https://playbook.cjr.org.br/)
+
