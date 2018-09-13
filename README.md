@@ -3,5 +3,5 @@
   
 [GitHub](%20https://github.com/unbcjr/playbook)
 
-[Gitbook](https://playbook.cjr.org.br/)
+[Gitbook](https://cjr.gitbook.io/playbook/)
 
