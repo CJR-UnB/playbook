@@ -18,7 +18,7 @@ Segue uma lista dos tipos de post que costumamos fazer no stories e breves instr
 
 #### Aniversariante do dia
 
-É basicamente uma foto do aniversariante em um background. O drive da NAM possui templates prontos para facilitar a criação do post. Justo do template e da foto colocamos emotes relacionados ao aniversariante, deixe sua criatividade fluir!
+É basicamente uma foto do aniversariante em um background. O drive da [NAM](https://drive.google.com/drive/u/1/folders/143nwwQGnvzMTLsXp6RLCLNR6JkP3cMt4) possui templates prontos para facilitar a criação do post. Justo do template e da foto colocamos emotes relacionados ao aniversariante, deixe sua criatividade fluir!
 
 #### Cobertura de eventos
 
