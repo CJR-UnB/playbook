@@ -16,14 +16,14 @@ Segue uma lista dos tipos de post que costumamos fazer no stories e breves instr
 * Informações sobre o PS
 * Comemoração de metas
 
-####Aniversariante do dia
+#### Aniversariante do dia
 
 É basicamente uma foto do aniversariante em um background. O drive da NAM possui templates prontos para facilitar a criação do post. Justo do template e da foto colocamos emotes relacionados ao aniversariante, deixe sua criatividade fluir!
 
-####Cobertura de eventos
+#### Cobertura de eventos
 
 Fotos e vídeos de eventos são sempre bem vindos no stories, afinal é sempre bom marcar presença! Se possível, faça a inclusão de uma hashtag do evento ou uma breve explicação do que se passa.
 
-####Divulgações do Facebook
+#### Divulgações do Facebook
 
 Para atingir um maior público, as divulgações feitas no facebook também costumam ganhar um espaço no Stories.
