@@ -45,6 +45,6 @@ Atualmente os principais posts do nosso instagram envolvem o Webissário, os Ani
 
 
     ### DICA DE MESTRE
-    Para facilitar a criação de posts, o drive da [NAM](https://drive.google.com/drive/u/0/folders/143nwwQGnvzMTLsXp6RLCLNR6JkP3cMt4) possui uma coleção de molduras e backgrouns padrão para posts como aniversários, feedback e outros.
+    Para facilitar a criação de posts, o drive da [NAM] (https://drive.google.com/drive/u/0/folders/143nwwQGnvzMTLsXp6RLCLNR6JkP3cMt4) possui uma coleção de molduras e backgrouns padrão para posts como aniversários, feedback e outros.
 
 
