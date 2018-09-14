@@ -43,8 +43,8 @@ Os posts possuem conteúdos mais duradouros e prioritários, pois são a cara do
 
 Atualmente os principais posts do nosso instagram envolvem o Webissário, os Aniversariantes do mês e Divulgações de eventos, mas eles não devem ser reduzidos a isso pois temos a intenção de tornar o instagram mais ativo.
 
-<div class="master-tip">
-    <b class="master-title">DICA DE MESTRE</b>
+
+    ### DICA DE MESTRE
     Para facilitar a criação de posts, o drive da [NAM](https://drive.google.com/drive/u/0/folders/143nwwQGnvzMTLsXp6RLCLNR6JkP3cMt4) possui uma coleção de molduras e backgrouns padrão para posts como aniversários, feedback e outros.
-</div>
+
 
