@@ -4,7 +4,7 @@ Essa sessão explica como são feitos nossos posts e como escolher o que vai par
 
 Lembre-se sempre que a qualidade é extremamente importante. Confira a qualidade de fotos e vídeos antes de postar, não há problema em regravar ou tirar uma segunda foto se isso significa um conteúdo melhor.
 
-##Stories
+## Stories
 
 O Stories é uma ferramenta do Instagram que nos permite fazer posts temporários. Dessa forma é muito útil para evitar que o perfil da empresa fique atolado de pequenos posts. Assim, usamos o stories para posts úteis ou de frequência constante, com um conteúdo mais descontraído.
 
