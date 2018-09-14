@@ -38,7 +38,7 @@ Quando batemos uma meta fazemos uma pequena comemoração onde a pessoa que bate
 
 ## Posts
 
-As imagens dos posts seguem o formato quadrado com dimensoes 600x600.
+As imagens dos posts seguem o formato quadrado.
 Os posts possuem conteúdos mais duradouros e prioritários, pois são a cara do perfil da empresa atingindo tanto membros quanto possíveis clientes.
 
 Atualmente os principais posts do nosso instagram envolvem o Webissário, os Aniversariantes do mês e Divulgações de eventos, mas eles não devem ser reduzidos a isso pois temos a intenção de tornar o instagram mais ativo.
