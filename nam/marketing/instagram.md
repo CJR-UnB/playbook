@@ -27,3 +27,24 @@ Fotos e vídeos de eventos são sempre bem vindos no stories, afinal é sempre b
 #### Divulgações do Facebook
 
 Para atingir um maior público, as divulgações feitas no facebook também costumam ganhar um espaço no Stories.
+
+#### Informações sobre o Processo Seletivo
+
+Como dito acima as divulgações do PS no facebook, como outras, também ganham espaço no Stories, mas não para por aí. Fotos de etapas do processo como aulas, palestras e até entrevistas servem para mostrar que o PS está em andamento.
+
+#### Alcance de metas
+
+Quando batemos uma meta fazemos uma pequena comemoração onde a pessoa que bateu a meta faz o registro no painel de vendas, e é recebida com aplausos. Isso incentiva os membros e mostra o quanto a empresa está avançando! Assim, gravamos um video de aproximadamente 10s com esse momento.
+
+## Posts
+
+As imagens dos posts seguem o formato quadrado com dimensoes 600x600.
+Os posts possuem conteúdos mais duradouros e prioritários, pois são a cara do perfil da empresa atingindo tanto membros quanto possíveis clientes.
+
+Atualmente os principais posts do nosso instagram envolvem o Webissário, os Aniversariantes do mês e Divulgações de eventos, mas eles não devem ser reduzidos a isso pois temos a intenção de tornar o instagram mais ativo.
+
+<div class="master-tip">
+    <b class="master-title">DICA DE MESTRE</b>
+    <p>Para facilitar a criação de posts, o drive da [NAM](https://drive.google.com/drive/u/0/folders/143nwwQGnvzMTLsXp6RLCLNR6JkP3cMt4) possui uma coleção de molduras e backgrouns padrão para posts como aniversários, feedback e outros.</p>
+</div>
+
