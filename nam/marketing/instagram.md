@@ -2,7 +2,7 @@
 
 Essa sessão explica como são feitos nossos posts e como escolher o que vai para o Stories e o que fica permanentemente no perfil.
 
-Lembre-se sempre que a qualidade é extremamente importante. Confira a qualidade de fotos e vídeos antes de postar, não há problema em regravar ou tirar uma segunda foto se isso significa um conteúdo melhor.
+Lembre-se sempre que a qualidade é extremamente importante. Confira a qualidade de fotos e vídeos antes de postar, não há problema em regravar ou tirar uma segunda foto se isso significa um conteúdo melhor. Também sempre procuramos manter o perfil alinhado e fazer campanhas que envolvam múltiplos de 3 postagens.
 
 ## Stories
 
@@ -14,11 +14,11 @@ Segue uma lista dos tipos de post que costumamos fazer no stories e breves instr
 * Cobertura de eventos (ENEJ, Concentra, Aulas do PS, Reger, outros)
 * Divulgações originadas do facebook
 * Informações sobre o PS
-* Comemoração de metas
+* Comemoração de metas e resultados
 
 #### Aniversariante do dia
 
-É basicamente uma foto do aniversariante em um background. O drive da [NAM](https://drive.google.com/drive/u/1/folders/143nwwQGnvzMTLsXp6RLCLNR6JkP3cMt4) possui templates prontos para facilitar a criação do post. Justo do template e da foto colocamos emotes relacionados ao aniversariante, deixe sua criatividade fluir!
+É basicamente uma foto do aniversariante em um background. O drive da [NAM](https://drive.google.com/drive/u/1/folders/143nwwQGnvzMTLsXp6RLCLNR6JkP3cMt4) possui templates prontos para facilitar a criação do post. Junto do template e da foto colocamos emotes relacionados ao aniversariante, deixe sua criatividade fluir!
 
 #### Cobertura de eventos
 
@@ -34,7 +34,7 @@ Como dito acima as divulgações do PS no facebook, como outras, também ganham 
 
 #### Alcance de metas
 
-Quando batemos uma meta fazemos uma pequena comemoração onde a pessoa que bateu a meta faz o registro no painel de vendas, e é recebida com aplausos. Isso incentiva os membros e mostra o quanto a empresa está avançando! Assim, gravamos um video de aproximadamente 10s com esse momento.
+Quando batemos uma meta fazemos uma pequena comemoração onde a pessoa que bateu a meta faz o registro no painel de vendas, e é recebida com aplausos ~~e barulhos de foca~~. Isso incentiva os membros e mostra o quanto a empresa está avançando! Assim, gravamos um video de aproximadamente 10s com esse momento.
 
 ## Posts
 
@@ -45,6 +45,6 @@ Atualmente os principais posts do nosso instagram envolvem o Webissário, os Ani
 
 
     ### DICA DE MESTRE
-    Para facilitar a nossa vida, o drive da NAM possui uma coleção de molduras e backgrouns padrão para posts como aniversários, feedback e outros.
+    Para facilitar a nossa vida, o drive da NAM possui uma coleção de molduras e backgrounds padrão para posts como aniversários, feedback e outros.
 
 
