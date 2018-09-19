@@ -2,7 +2,7 @@
 
 ---
 
-## Atualização 01/09/2018
+### Atualização 01/09/2018
 Em 10 de Julho de 2018, Sridhar Ramaswamy e sua equipe anunciaram, no evento anual Google
 Marketing Live, diversas novidades a repeito das tecnologias de marketing da empresa Google.
 Dentre essas novidades estava a mudança do nome da marca Google AdWords para Google Ads.
@@ -16,8 +16,8 @@ reporting and remarketing", a opção "Smart Campaigns", "Automatic feeds", "Cam
 "Campanhas Locais" e "Hotel Campaigns".
 
 Para mais informações:
-https://www.blog.google/technology/ads/new-advertising-brands/
-https://www.youtube.com/watch?v=MmfaZV96x7A
+- https://www.blog.google/technology/ads/new-advertising-brands/
+- https://www.youtube.com/watch?v=MmfaZV96x7A
 
 ---
 
@@ -35,6 +35,29 @@ Com o auxílio do [guia](https://medium.com/@concentrodf/fazendo-sua-ej-decolar-
 * CPC (custo por clique) de no máximo U$2,00.
 * Apenas campanhas que usam [palavras-chave](#palavras-chave). 
 * Apenas [anúncios de texto](#anuncio) que aparecem como resultado de pesquisas no Google, em posições abaixo dos anúncios efetivamente pagos.
+---
+
+### Atualização 11/09/2018
+No começo de 2018, entraram em vigor as seguintes mudanças no Adgrants.
+
+* O limite do CPC (U$2,00) passa a não valer para empresas sem fins lucrativos que usam da estratégia [maximize conversions bidding](https://support.google.com/google-ads/answer/7381968?hl=pt-BR) em suas campanhas.
+* Se a taxa de cliques (CTR) não exceder 5% em 2 meses consecutivos, a empresa benefiada tem a conta do Ads temporariamente desativada!
+* Palavras chave com scores de qualidade menores do que 3/10 não são mais permitidas
+* palavras-chave com uma única palavra (exceto palavras da sua marca, condições médicas reconhecidas, acrônimos e um pequeno número de palavras-chave de uma lista de exceções publicada [aqui](https://support.google.com/grants/answer/7587473)) não são mais permitidas.
+* palavras-chave excessivamente genéricas, como “melhores vídeos”, "apps interessantes", “e-books”, “notícias de hoje”, “ioga fácil”, “download de jogos”, "coisas para fazer", “alerta de vaga” ou nomes de outras organizações, lugares, eventos históricos ou pessoas, não são mais permitidas.
+* Os domínios ligados as campanhas devem ter alta qualidade, assim como uma clara descrição a respeito da missão da empresa beneficiada.
+* As contas do Ad Grants precisam ter [segmentação por área geográfica](https://support.google.com/google-ads/answer/1722043) condizente com a missão da empresa para exibir anúncios em locais onde os usuários encontrarão informações e serviços úteis da sua organização sem fins lucrativos. (Não deve ser um problema para a CJR)
+* pelo menos dois grupos de anúncios ativos por campanha, cada um contendo um conjunto de palavras-chave relacionadas e dois anúncios de texto ativos;
+* pelo menos duas extensões de anúncio de [sitelinks](https://support.google.com/google-ads/answer/2375416).
+
+Para mais informações:
+- https://www.pt.advertisercommunity.com/t5/Google-Ad-Grants/Atualizacao-das-politicas-do-Ad-Grants/m-p/242870/highlight/true#M267
+- https://www.onlineoptimism.com/blog/2018-google-ad-grants-updates/
+- https://www.wordstream.com/blog/ws/2017/12/18/google-ad-grants-policy-changes
+
+---
+
+
 
 ## Gerenciamento da conta
 
@@ -142,3 +165,21 @@ O Trends é a ferramenta do Google que permite acompanhar a evolução do númer
 O CTR, como já explicado acima, é a eficiência que o seu anúncio está tendo em questões de cliques, ou seja, qual a taxa de pessoas que clicam no seu anúncio após vizualizá-lo. A taxa do CTR geralmente é baixa, portanto um valor entre 4~5 % são considerados bons.
 
 A Taxa de Conversão aqui é a mais importante, porque ela leva em conta a quantidade de pessoas que clicaram no anúncio e adquiriram o serviço fornecido. A conversão para ser eficiente deve estar em 50%, ou seja, 50 a cada 100 pessoas que clicaram no anúncio devem fechar projeto conosco. Uma conversão baixa reflete uma estratégia ruim nos anúncios. (ATUALMENTE NÃO TEMOS COMO MENSURAR ESSA TAXA DE CONVERSÃO).
+
+
+## Alguns números (11/09/2018)
+
+O Google Ads tem trazido clientes e notoriedade para a empresa desde sua implementação. Estima-se que a quantidade de clientes que foram atendidos graças aos anúncios, até agora, é próxima de 8, e de acordo com os dados da própria plataforma, de 15 de Agosto de 2017 até hoje foram registrados:
+
+- 192 cliques;
+- 4,72 mil impressões;
+- um gasto de $53,49;
+
+tal que apenas no intervalo de 01 de Janeiro de 2018 até hoje tivemos:
+- 145 cliques;
+- 2,65 mil impressões;
+- um gasto de $26,96;
+ 
+ Indicando que a CJR tem melhorando seu CTR com o tempo!
+ 
+É válido acrescentar que as palavras chave de mais sucesso foram CJR(109 cliques), site(21 cliques) e UnB(12 cliques), o que aparentemente, indica que grupos de anúncios que giram em torno dessas palavras têm grande potencial.
