@@ -65,7 +65,8 @@
     * [1.7 Processo Trainee](nut/processo-trainee.md)
     * [1.8 Projeto Pró-Júnior \(CDT\)](nut/projeto-pro-junior.md)
     * [1.9 Mandou Bem](nut/mandou-bem.md)
+    * [1.10 Controle do Tempo \(Clockify\)](nut/contagem-tempo.md)
   * 2 Responsabilidades
-    * [2.1 Capacitação](nut/capacitacao.md)
-    * [2.2 Integrações](nut/integracoes.md)
-    * [2.3 Acompanhamento](nut/acompanhamento.md)
+    * [2.1 Acompanhamento](nut/acompanhamento.md)
+    * [2.2 Capacitação](nut/capacitacao.md)
+    * [2.3 Integrações](nut/integracoes.md)
