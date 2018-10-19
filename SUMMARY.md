@@ -67,5 +67,5 @@
   * [10 Processo Trainee](nut/processo-trainee.md)
   * [11 Projeto Pró-Júnior \(CDT\)](nut/projeto-pro-junior.md)
   * [12 Mandou Bem](nut/mandou-bem.md)
-  * [13 Controle do Tempo(Clockify)](nut/controle-tempo.md)
+  * [13 Controle do Tempo(Clockify)](nut/contagem-tempo.md)
 
