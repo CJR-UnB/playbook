@@ -18,10 +18,10 @@ seu tempo, basta clicar no botão start, escrever o que está sendo feito e sele
 Para analisar o tempo dos membros, vá para a sidebar à esquerda e passe o mouse por cima da opção REPORTS. Existem quatro tipos
 de reports, que são: 
 
-* 1-Summary(resumo de tudo que foi feito); 
-* 2-Detailed(detalha cada atividade realizada); 
-* 3-Saved Reports(onde ficam salvos alguns reports); 
-* 4-Weekly(analise semanal do tempo).
+* 1 - Summary(resumo de tudo que foi feito); 
+* 2 - Detailed(detalha cada atividade realizada); 
+* 3 - Saved Reports(onde ficam salvos alguns reports); 
+* 4 - Weekly(analise semanal do tempo).
 
 Normalmente só utilizamos as opções Summary e Weekly para analisar as horas dos membros.
 
