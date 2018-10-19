@@ -50,7 +50,7 @@ OBS: É necessário ter um certificado digital. OBS2: As instruções serão bas
 * OBS: Notas enviadas, porém não faturadas, podem trazer problemas. O Omie é de graça para até 100 mil de faturamento, entretanto esses 100 mil imcluem as notas que falharam, então considerando que você precise enviar uma nota de 6 mil reais 3 vezes até esta ser aprovada, o Omie irá considerar 18mil de faturamento, fique esperto!
 * OBS2: Clique varias vezes no primeiro campo html para aparecer o xml de retorno, onde será possível ver qual foi o erro cometido.
 
-10\) Após terminar este processo entre no email da NOE, pegue a nota recebida \(pdf e xml\) e coloque no drive em: Financeiro/Seu Ano/Notas fiscais emitidas/Seu mês, coloque o pdf dentro dessa pasta e a xml na pasta xml \(na mesma página\).
+10\) Após terminar este processo, você poderá encontrra as notas fiscais no e-mail da NOE. Assim, entre no email da NOE, pegue a nota recebida, apenas em \(pdf\) e coloque no drive em: Financeiro/Seu Ano/Notas fiscais emitidas/Seu mês; coloque o pdf dentro dessa pasta.
 
 ### FIM!
 
