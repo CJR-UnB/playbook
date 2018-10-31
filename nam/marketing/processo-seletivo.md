@@ -18,6 +18,21 @@ A mais básica ferramenta de divulgação da empresa são as mídias sociais. De
 
 Além das mídias sociais, esse modelo também recomenda o uso do **marketing de guerrilha**, caracterizado pela sua inconvencionalidade e baixo custo, ambas características que interagem bem com a natureza de uma empresa júnior. Esse tipo de marketing também tem dado melhores resultados tanto nas pesquisas feitas por membros \(incluindo benchmarking com outras EJs\), quanto quando comparado com outras práticas, como cartazes comuns. Ao final deste documento estarão anexadas \(e deverão continuar sendo anexadas futuras\) campanhas de marketing de semestres passados, a fim de exemplificar e documentar as práticas aqui descritas.
 
+É necessário que as postagens das mídias sociais sejam também compartilhadas em grupos de interesse da CJR tais como CAEC, CACOMP e Ciência da Computação-UnB.
+
+Outra ferramenta de marketing que se mostrou eficiente foi a utilização de cartazes para a divulgação da abertura do Processo Seletivo. Os cartazes devem seguir o tema selecionado para a Campanha e conter o site de inscrição do processo seletivo, o período de inscrição e as redes sociais da empresa.
+
+### 2.1: Sala de Aula
+
+Outra parte do marketing do PS são as visitas em sala de aula. Essas devem ser feitas, preferencialmente, nas duas primeiras semanas do PS. As turmas em foco são as turmas de matérias de início de curso de forma a atingir como público os calouros e alunos mais novos que podem não conhecer a empresa.
+
+É necessário que, antes, se faça contato com o professor, preferencialmente por e-mail, para conseguir a permissão de fazer uma breve apresentação (10 minutos) e escolher o dia e horário.
+
+Há no drive uma apresentação em slide (Com GIFS!) para ser apresentada, no entanto não é toda aula que o professor permitirá a exibição do slide, assim, é bom que se faça a leitura da apresentação, utilizando-a como roteiro a ser seguido.
+
+É recomendável que se utilize a camiseta da CJR na apresentação e que ela seja feita em grupo. Tenha em mente que todos devem falar um pouco, dessa forma um grupo de 3 ou 4 membros é o ideal.
+
+
 ## 3º Passo: Selecionar Os Candidatos
 
 Uma vez devidamente planejada a sua divulgação, o processo seletivo pode começar de fato. As entrevistas devem começar a ser agendadas assim que a primeira pessoa se inscreva \(a inscrição é feita pelo site da CJR\), enquanto a dinâmica precisa ser feita após o fim das inscrições, na última semana do primeiro mês de aula.
