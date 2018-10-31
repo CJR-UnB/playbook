@@ -1,6 +1,6 @@
 # Introdução
 
-O **Facebook Ads** é uma forma na qual a **NAM** irá utilizar para divulgar a empresa para novos públicos e potenciais novos clientes. Diferentemente do Google Ads, aparentemente o facebook ainda não implementou um sistema como o Ad Grants, portanto o **Facebook Ads** deverá ser financiado com o dinheiro da própria **CJR**. Isso pode ser algo que dificulte um pouco o potencial de marketing desse meio para a **CJR**, a depender do foco da empresa no momento em que você estiver. 
+O **Facebook Ads** é uma forma na qual a **NAM** irá utilizar para divulgar a empresa para novos públicos e potenciais novos clientes. Diferentemente do Google Ads, aparentemente o facebook ainda não implementou um sistema como o Ad Grants, portanto este deverá ser financiado com o dinheiro da própria **CJR**. Portanto, é responsabilidade do líder da **NAM**, junto ao líder da **NOE** definir uma verba mensal de gastos ou de gastos pontuais, como posts não planejados.
 
 ## Gerenciamento da conta
 
