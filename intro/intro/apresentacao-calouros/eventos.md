@@ -20,5 +20,7 @@ Os arquivos utilizados estão na pasta [Campus Party](https://drive.google.com/d
 
 ## Dojo Day
 
+O primeiro Dojo Day organizado pela CJR foi realizado em 2015, e tinha como objetivo principal instigar a cultura de melhoria contínua e do TDD em geral. O evento é costumeiramente realizado uma vez por semestre/ano, tem melhorado conforme os anos na sua visibilidade com os alunos e profissionais da área, e é um evento bem interessante para vender os ideais de desenvolvimento de software que a CJR preza.
+
 ## ENEJ 2018
 
