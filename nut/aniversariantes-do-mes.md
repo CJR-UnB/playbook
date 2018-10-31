@@ -2,7 +2,7 @@
 
 ## Resumo:
 
-Processo da empresa para melhorar a integração pessoal dos membros realizando uma celebração na última REGER do mês para comemorar o aniversário de membros do mês em questão.
+Processo da empresa, integrado com a NAM, para melhorar a integração pessoal dos membros realizando uma celebração na última REGER do mês para comemorar o aniversário de membros do mês em questão.
 
 **Procedimentos:**
 	
@@ -15,7 +15,7 @@ Processo da empresa para melhorar a integração pessoal dos membros realizando 
 * Preparar slide com fotos dos membros que fazem aniversário no mês para inserir no final do slide da última REGER do mês;
 * Levar os itens de comemoração para a última REGER do mês;
 * Chamar os membros aniversariantes do mês para a frente da REGER no ponto final de pauta;
-* Tocar a música: "Parabéns da Xuxa" para os aniversariantes;
+* Tocar a música: **"Parabéns da Xuxa"** para os aniversariantes;
 * Realizar o lanche de comemoração dos aniversariantes do mês como um momento de integração da empresa.
 
 ### Observações:
