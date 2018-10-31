@@ -5,6 +5,7 @@ O [Playbook da CJR](https://cjr.gitbook.io/playbook/) é o livro da gestão de c
 ## Contribuindo
 
 Para contribiuir para este repositório:
+
 1. faça um fork do repositório;
 2. acrescente ou refatore informações;
 3. crie um PR no repositório original com suas modificações.
