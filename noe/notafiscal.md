@@ -21,7 +21,7 @@ OBS: É necessário ter um certificado digital. OBS2: As instruções serão bas
 * Na aba telefones e email, é preciso informar o email, caso você não tenha o email do cliente use o email da NOE.
 * Na aba inscrições, CNAE e Outros, é necessário colocar a inscrição estadual e municipal do cliente. Se este for do DF, as duas serão a mesma \(estadual\).
 * OBS: Nos contratos é colocado a inscrição estadual e o CNPJ dos clientes, basta procurar. Se a inscrição estadual não constar no contrato, procure no site do CF/DF.
-* OBS2: Se o cliente for pessoa física, tanto a inscrição estadual quanto a municipal devem ser preenchidas com a palavra: 'ISENTO'.
+* OBS2: Se o cliente for pessoa física, tanto a inscrição estadual quanto a municipal devem ser estar com os campos vazios.
 * OBS3: Quando o cliente for estrangeiro coloque EX na opção de escolha do estado. Nesse caso será necessário o email, o endereço e o telefone.
 * Confira os dados novamente \(é sério confira mesmo\).
 
