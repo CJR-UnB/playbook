@@ -2,7 +2,7 @@
 
 ## Resumo: 
 
-Primeiramente, é interessante explicar o que é o Clockfy e porque o utilizamos como ferramenta para contagem de tempo. O Clockify
+Primeiramente, é interessante explicar o que é o Clockify e porque o utilizamos como ferramenta para contagem de tempo. O Clockify
 é uma ferramente de fácil utilizaço e que permite a todos da empresa verem quantas horas cada membro está fazendo. Isso torna o 
 processo de contagem de tempo muito mais simples, e gera um sentimento de motivação a todos os membros, ao verem que outras pessoas
 estão cumprindo suas horas. Em suma, o Clockify é uma ferramenta para contagem de tempo que facilmente gera reports sobre o tempo
