@@ -1,4 +1,4 @@
-# Instagram
+# 2.3 Instagram
 
 Essa sessão explica como são feitos nossos posts e como escolher o que vai para o Stories e o que fica permanentemente no perfil.
 
