@@ -21,4 +21,16 @@ Zap - Reembolso aprovado deduz da tabela de Casa da Moeda
 
 ### Pipe de Projetos
 
+Pipe criado para gerenciamento dos projetos. Quando um projeto é aceito, seu card é adicionado nesse pipe, contendo as seguintes informações:
+- Nome do projeto;
+- Cliente;
+- Negociador;
+- Se o projeto é fidelizado e/ou conectado;
+- Gerente e desenvolvedores alocados.
+
+Quando um projeto é finalizado ele deve ser movido para NPS1.
+
 ### Automações
+
+Zap - Alocação de membros: quando o card do projeto é criado, a planilha de membros do Planejamento Estratégico 2019 com a coluna "Alocado atualmente?" de cada desenvolvedor e gerente tendo seu valor atualizado para "Alocado". 
+Zap - Desaloca membro: quando o card é movido para NPS1, a planilha de membros do Planejamento Estratégico 2019 com a coluna "Alocado atualmente?" de cada desenvolvedor e gerente tendo seu valor atualizado para "Desalocado". 
